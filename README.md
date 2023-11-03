@@ -27,6 +27,7 @@
   <a href="https://linkedin.com/in/gastontittarelli" target="blank"><img align="center" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
   </a>
   <br>
+  <br>
   <a href="https://discord.com/" target="blank"><img align="center" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/discord-round.svg" alt="discord" height="30" width="30" />
   </a>
 
