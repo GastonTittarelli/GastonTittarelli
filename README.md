@@ -24,7 +24,7 @@
 
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/gastontittarelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/gastontittarelli" target="blank"><img align="center" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
   <a href="https://discord.com/" target="blank"><img align="center" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/discord-round.svg" alt="discord" height="30" width="30" /></a>
 
 </p>
