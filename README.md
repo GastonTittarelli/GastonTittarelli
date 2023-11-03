@@ -29,10 +29,10 @@
   </a>
   <br>
   <br>
-  <a href="https://discord.com" target="blank">
+  <p>
     <img align="center" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/discord-round.svg" alt="discord" height="30" width="30" />
-  </a>
-    <a> Find me here </a>
+  </p>
+  <a> Find me here </a>
 </p>
 </a>
 
