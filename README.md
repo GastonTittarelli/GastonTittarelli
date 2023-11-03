@@ -31,7 +31,7 @@
   <br>
   <a href="https://discord.com" target="blank">
     <img align="center" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/discord-round.svg" alt="discord" height="30" width="30" />
-  <p> Find me here </p>
   </a>
+  <a> Find me here </a>
 </p>
 
