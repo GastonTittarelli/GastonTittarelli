@@ -23,7 +23,10 @@
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gastontittarelli&show_icons=true&locale=en&layout=compact&theme=algolia" alt="gastontittarelli" /></p>
 
 <h3 align="left"> 📫 How to reach me:</h3>
-<a href="https://www.linkedin.com/in/gastontittarelli" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
+<p align="left">
+  <a href="https://linkedin.com/in/gastontittarelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="https://discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/GastonTittarelli/GastonTittarelli/blob/main/assets/discord-round.svg" alt="discord" height="30" width="30" /></a>
+
+</p>
 </a>
 
