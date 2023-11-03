@@ -36,7 +36,7 @@
   <br>
   <br>
   <a href="https://gmail.com" target="blank">
-    <img align="center" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.svg" alt="gmail" height="30" width="30" />
+    <img align="center" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
   </a>
   <a> Mail </a>
 </p>
