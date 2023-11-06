@@ -70,7 +70,7 @@
   <a> Find me here </a>
   <br>
   <br>
-  <p> 
+  <p width="400"> 
     <a href="https://gmail.com" target="blank">
       <img align="center" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
     </a>
