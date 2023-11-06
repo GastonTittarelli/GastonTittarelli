@@ -63,21 +63,18 @@
 
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/gastontittarelli" target="blank">
+  <a href="https://linkedin.com/in/gastontittarelli" target="blank">
       <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
-    </a>
-    <a href= "https://www.linkedin.com/in/gastontittarelli/" target="blank"> linkedin.com/in/gastontittarelli </a>
-  <br>
-  <br>
-    <a href="https://discord.com" target="blank">
+  </a>
+  <a href= "https://www.linkedin.com/in/gastontittarelli/" target="blank"> linkedin.com/in/gastontittarelli </a>
+  
+  <a href="https://discord.com" target="blank">
       <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/discord-round.svg" alt="discord" height="30" width="30" />
-    </a>
+  </a>
     <p> g- </p>
-  <br>
-  <br> 
-      <a href="https://gmail.com" target="blank" height="35" width="35">
-        <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
-      </a>
-      <p> gastontittarelli1@gmail.com </p>
+  <a href="https://gmail.com" target="blank" height="35" width="35">
+      <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
+  </a>
+  <p> gastontittarelli1@gmail.com </p>
 </p>
 
