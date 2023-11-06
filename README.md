@@ -69,12 +69,10 @@
   <a> gastontittarelli </a>
   <br>
   <br>
-  <br>
   <a href="https://discord.com" target="blank">
       <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/discord-round.svg" alt="discord" height="30" width="30" />
   </a>
     <a> gastont </a>
-  <br>
   <br>
   <br>
   <a href="https://gmail.com" target="blank" height="35" width="35">
