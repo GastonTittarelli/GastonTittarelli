@@ -73,11 +73,11 @@
   <a href="https://discord.com" target="blank">
       <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/discord-round.svg" alt="discord" height="30" width="30" />
   </a>
-    <p> g- </p>
+    <a> g- </a>
   <br>
   <a href="https://gmail.com" target="blank" height="35" width="35">
       <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
   </a>
-  <p> gastontittarelli1@gmail.com </p>
+  <a> gastontittarelli1@gmail.com </a>
 </p>
 
