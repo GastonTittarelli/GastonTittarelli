@@ -76,7 +76,7 @@
   <br>
     <div width="400"> 
       <a href="https://gmail.com" target="blank" height="35" width="35">
-        <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
+        <img padding= "0" align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
       </a>
       <h5> gastontittarelli1@gmail.com </h5>
     </div>
