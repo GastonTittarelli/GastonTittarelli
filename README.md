@@ -66,12 +66,13 @@
   <a href="https://linkedin.com/in/gastontittarelli" target="blank">
       <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
   </a>
-  <a href= "https://www.linkedin.com/in/gastontittarelli/" target="blank"> linkedin.com/in/gastontittarelli </a>
-  
+  <a href= "https://www.linkedin.com/in/gastontittarelli/" target="blank"> My Linkedin </a>
+  <br>
   <a href="https://discord.com" target="blank">
       <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/discord-round.svg" alt="discord" height="30" width="30" />
   </a>
     <p> g- </p>
+  <br>
   <a href="https://gmail.com" target="blank" height="35" width="35">
       <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
   </a>
