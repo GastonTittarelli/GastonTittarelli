@@ -59,22 +59,22 @@
 
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/gastontittarelli" target="blank">
-    <img align="center" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
-  </a>
-  <br>
-  <br>
-  <a href="https://discord.com" target="blank">
-    <img align="center" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/discord-round.svg" alt="discord" height="30" width="30" />
-  </a>
-  <a> Find me here </a>
-  <br>
-  <br>
-  <p width="400"> 
-    <a href="https://gmail.com" target="blank">
-      <img align="center" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
+    <a href="https://linkedin.com/in/gastontittarelli" target="blank">
+      <img align="center" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
     </a>
-    <p width="100"> Mail </p>
-  </p>
+  <br>
+  <br>
+    <a href="https://discord.com" target="blank">
+      <img align="center" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/discord-round.svg" alt="discord" height="30" width="30" />
+    </a>
+    <a> Find me here </a>
+  <br>
+  <br>
+    <p width="400"  dir="ltr" > 
+      <a href="https://gmail.com" target="blank">
+        <img align="center" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
+      </a>
+      <p width="100" > Mail </p>
+    </p>
 </p>
 
