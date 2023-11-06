@@ -74,7 +74,7 @@
     <a href="https://gmail.com" target="blank">
       <img align="center" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
     </a>
-    <p> Mail </p>
+    <p width="100"> Mail </p>
   </p>
 </p>
 
