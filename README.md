@@ -10,7 +10,7 @@
 <p>🚀 I have a strong foundation in front-end development and I am actively working to further refine my skills.</p>
 <p>🙋🏻‍♂️ In my leisure time, I enjoy practicing sports, playing musical instruments, and watching films.</p>
 
-
+<p>__________________________________________________________________________________________________________</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
