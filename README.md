@@ -4,7 +4,13 @@
   </a>
 </h1>
 
+<h3 align="left">About me:</h3>
 <p> I am a Full Stack programmer with a solid understanding of front-end technologies, focused on creating digital solutions and enthusiastic about growing in an innovative development environment. </p>
+br
+💻 Full Stack programmer.
+🚀 I have a strong foundation in front-end development and I am actively working to further refine my skills.
+🙋🏻‍♂️ In my leisure time, I enjoy practicing sports, playing musical instruments, and watching films.
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
