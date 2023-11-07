@@ -58,6 +58,7 @@
 <br>
 <p align="center" >
   <br>
+  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gastontittarelli&show_icons=true&locale=en&layout=compact&theme=algolia" alt="gastontittarelli" />
 </p>
 
