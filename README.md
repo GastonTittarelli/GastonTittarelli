@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+<p> I am a Full Stack programmer with a solid understanding of front-end technologies, focused on creating digital solutions and enthusiastic about growing in an innovative development environment. </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
