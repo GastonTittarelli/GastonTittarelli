@@ -5,10 +5,10 @@
 </h1>
 
 <h3 align="left"> 🙋🏻‍♂️ About me:</h3>
-<p> I am a Full Stack programmer with a solid understanding of front-end technologies, focused on creating digital solutions and enthusiastic about growing in an innovative development environment. </p>
+<p> I am a Full Stack developer with a strong proficiency in front-end technologies. My primary focus is on crafting digital solutions, and I am enthusiastic about expanding my skills in an innovative development environment. </p>
 <p>💻 Full Stack programmer.</p>
 <p>🚀 I have a strong foundation in front-end development and I am actively working to further refine my skills.</p>
-<p> In my leisure time, I enjoy practicing sports, playing musical instruments, and watching films.</p>
+<p>🎯 In my leisure time, I enjoy practicing sports, playing musical instruments, and watching films.</p>
 
 
 <br>
