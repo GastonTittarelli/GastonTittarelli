@@ -4,15 +4,15 @@
   </a>
 </h1>
 
-<h3 align="left">About me:</h3>
+<h3 align="left"> 🙋🏻‍♂️ About me:</h3>
 <p> I am a Full Stack programmer with a solid understanding of front-end technologies, focused on creating digital solutions and enthusiastic about growing in an innovative development environment. </p>
 <p>💻 Full Stack programmer.</p>
 <p>🚀 I have a strong foundation in front-end development and I am actively working to further refine my skills.</p>
-<p>🙋🏻‍♂️ In my leisure time, I enjoy practicing sports, playing musical instruments, and watching films.</p>
+<p> In my leisure time, I enjoy practicing sports, playing musical instruments, and watching films.</p>
 
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🛠️⚙️Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
