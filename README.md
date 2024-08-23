@@ -13,7 +13,7 @@
 
 <br>
 <h3 align="left"> 🛠️ Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" style="background-color: #f0f0f0;> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> 
   </a> 
