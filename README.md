@@ -13,7 +13,7 @@
 
 <br>
 <h3 align="left"> 🛠️ Languages and Tools:</h3>
-<p display="flex" flex-wrap="wrap" justify-content="center" align-items="center" height="200" dir="none"> 
+<div display="flex" flex-wrap="wrap" justify-content="center" align="left" > 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   </a>
@@ -70,7 +70,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 <br>
 <br>
