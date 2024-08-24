@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=77&duration=1500&pause=300&color=38C2FFFF&background=000000&center=true&vCenter=true&multiline=true&random=false&width=1920&height=300&lines=Hi+there!;I'm+Gast%C3%B3n;Welcome+to+my+Github+profile;aa" alt="Typing SVG" />
   </a>
 </h1>
@@ -97,19 +97,19 @@
 
 <h2 align="left"> 📫 How to reach me:</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/gastontittarelli" target="blank">
+  <a href="https://linkedin.com/in/gastontittarelli" target="blank" rel="noreferrer">
       <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
   </a>
   <a> gastontittarelli </a>
   <br>
   <br>
-  <a href="https://discord.com" target="blank">
+  <a href="https://discord.com" target="blank" rel="noreferrer">
       <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/discord-round.svg" alt="discord" height="30" width="30" />
   </a>
     <a> gastont </a>
   <br>
   <br>
-  <a href="https://gmail.com" target="blank" height="35" width="35">
+  <a href="https://gmail.com" target="blank" height="35" width="35" rel="noreferrer">
       <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
   </a>
   <a> gastontittarelli1@gmail.com </a>
