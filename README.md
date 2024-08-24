@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="left"> 🙋🏻‍♂️ About me:</h3>
+<h2 align="left"> 🙋🏻‍♂️ About me:</h2>
 <p> I am a Full Stack developer with a strong proficiency in front-end technologies. My primary focus is on crafting digital solutions, and I am enthusiastic about expanding my skills in an innovative development environment. </p>
 <p>💻 Full Stack programmer Front-End specialist.</p>
 <p>🚀 I have a strong foundation in front-end development and I am actively working to further refine my skills.</p>
@@ -12,7 +12,7 @@
 
 
 <br>
-<h3 align="left"> 🛠️ Languages and Tools:</h3>
+<h2 align="left"> 🛠️ Languages and Tools:</h2>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="50" height="50"/></a>&nbsp;
@@ -77,7 +77,7 @@
 <br>
 <br>
 
-<h3 align="left"> 🚀 Real Impact </h3>
+<h2 align="left"> 🚀 Real Impact </h2>
 <h4> Explore work that goes beyond code, transforming concepts into products and services that create a tangible impact on their environment.</h4>
 
 <br>
@@ -92,7 +92,7 @@
           
 <br>
 
-<h3 align="left"> 📫 How to reach me:</h3>
+<h2 align="left"> 📫 How to reach me:</h2>
 <p align="left">
   <a href="https://linkedin.com/in/gastontittarelli" target="blank">
       <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
