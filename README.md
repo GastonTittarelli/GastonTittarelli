@@ -76,6 +76,11 @@
 
 <br>
 <br>
+
+<h3 align="left"> 🖥️ Impacto Real </h3>
+<h5> Explora trabajos que van más allá del código, transformando conceptos en productos y servicios que generan un impacto tangible en su entorno.</h3>
+
+
 <p align="center" >
   <br>
   <br>
