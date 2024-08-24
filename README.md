@@ -100,7 +100,7 @@
 
 <br>
 
-<h2 align="left"> 📫 How to reach me:</h2>
+<h2 align="left" width="800"> 📫 How to reach me:</h2>
 <p align="left">
   <a href="https://linkedin.com/in/gastontittarelli" target="blank" rel="noreferrer">
       <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
