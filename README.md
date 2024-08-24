@@ -95,6 +95,10 @@
           
 <br>
 
+<h2 align="left"> 📊 Stats: </h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gastontittarelli&show_icons=true&locale=en&layout=compact" alt="gastontittarelli" /></p>
+
+
 <h2 align="left"> 📫 How to reach me:</h2>
 <p align="left">
   <a href="https://linkedin.com/in/gastontittarelli" target="blank" rel="noreferrer">
@@ -114,9 +118,3 @@
   </a>
   <a> gastontittarelli1@gmail.com </a>
 </p>
-
-<h3 align="center">Developing</h3>
-
-
-<h2 align="left"> 📊 Stats: </h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gastontittarelli&show_icons=true&locale=en&layout=compact" alt="gastontittarelli" /></p>
