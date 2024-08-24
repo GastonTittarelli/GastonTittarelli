@@ -118,9 +118,5 @@
 <h3 align="center">Developing</h3>
 
 
-
+<h2 align="left"> 📊 Stats: </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gastontittarelli&show_icons=true&locale=en&layout=compact" alt="gastontittarelli" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gastontittarelli&show_icons=true&locale=en" alt="gastontittarelli" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gastontittarelli&" alt="gastontittarelli" /></p>
