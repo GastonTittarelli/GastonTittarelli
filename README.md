@@ -84,7 +84,7 @@
 
 <p align="center">
    <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/artPage.png" alt="art page link" title="luigiaart.com.ar" width="380" height="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/artPage.png" alt="art page link" title="luigiaart.com.ar" width="380" height="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             
    <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/ditribuidoraPage.png" alt="distribuidora page" title="distribuidoratittarelli.com.ar" width="380" height="auto"></a>
