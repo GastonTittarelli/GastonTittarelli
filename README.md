@@ -79,19 +79,16 @@
 
 <h3 align="left"> 🖥️ Real Impact </h3>
 <h4> Explore work that goes beyond code, transforming concepts into products and services that create a tangible impact on their environment.</h4>
+<br>
 <p align="center">
    <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/artPage.png" alt="art page link" title="luigiaart.com.ar" width="300" height="auto"></a>&nbsp;
+            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/artPage.png" alt="art page link" title="luigiaart.com.ar" width="350" height="auto"></a>&nbsp;
             
    <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/ditribuidoraPage.png" alt="distribuidora page" title="distribuidoratittarelli.com.ar" width="300" height="auto"></a>
+            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/ditribuidoraPage.png" alt="distribuidora page" title="distribuidoratittarelli.com.ar" width="350" height="auto"></a>
 </p>
           
-<p align="center" >
-  <br>
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gastontittarelli&show_icons=true&locale=en&layout=compact&theme=algolia" alt="gastontittarelli" />
-</p>
+<br>
 
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
