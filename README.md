@@ -8,6 +8,11 @@
 <h3>Full Stack programmer / Front-End specialist.</h3>
 <p> I am a Full Stack developer with a strong proficiency in front-end technologies. My primary focus is on crafting digital solutions, and I am enthusiastic about expanding my skills in an innovative development environment. </p>
 
+<p align="left"> Technologies that I've been working on:</p>
+<p align="left"> 🚀 HTML | CSS | SASS | JavaScript | ReactJS | GitHub | Redux | Tailwind | Material UI | Chakra UI |</p>
+<p align="left"> 🚀 Node.JS | NPM | Express.JS | API Rest | Mongo DB | Selenium | React Testing Library | Jest | Cypress |</p>
+
+
 
 <br>
 <h2 align="left"> 💻 Languages and Tools:</h2>
