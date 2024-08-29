@@ -44,7 +44,7 @@
         <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/handlebars.png" alt="handlebars" title="handlebars" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="tailwind" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="tailwind" width="50" height="50"/></a>&nbsp;&nbsp;
         <a href="https://mui.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/materialui.png" alt="materialUI" title="materialUI" width="45" height="45"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="bootstrap"> 
