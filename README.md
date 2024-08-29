@@ -24,7 +24,7 @@
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" title="sass" width="50" height="50"/></a>&nbsp;&nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="50" height="50"/></a>&nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="45" height="45"/></a>&nbsp;&nbsp;
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="50" height="50"/></a>&nbsp;
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
