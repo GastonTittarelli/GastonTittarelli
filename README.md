@@ -64,7 +64,7 @@
         <a href="https://www.tidio.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/tidio.png" alt="tidio" title="tidio" width="50" height="50"></a>&nbsp;&nbsp;
         <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/jest.png" alt="jest" title="jest" width="50" height="50"></a>&nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/jest.png" alt="jest" title="jest" width="40" height="50"></a>&nbsp;&nbsp;
         <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/playwright.png" alt="playwright" title="playwright" width="60" height="50"></a>&nbsp;&nbsp;
         <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
