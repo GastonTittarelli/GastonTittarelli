@@ -33,6 +33,10 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="50" height="50"/></a>&nbsp;&nbsp;
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" title="express" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/jest.png" alt="jest" title="jest" width="41" height="48"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/playwright.png" alt="playwright" title="playwright" width="60" height="50"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="mongodb" width="50" height="50"/></a>&nbsp;&nbsp;
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -63,10 +67,6 @@
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/stripe.png" alt="stripe" title="stripe" width="47" height="47"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.tidio.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/tidio.png" alt="tidio" title="tidio" width="47" height="47"></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/jest.png" alt="jest" title="jest" width="41" height="48"></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/playwright.png" alt="playwright" title="playwright" width="60" height="50"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/npm.png" alt="npm" title="npm" width="46" height="46"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://pagespeed.web.dev/" target="_blank" rel="noreferrer">
