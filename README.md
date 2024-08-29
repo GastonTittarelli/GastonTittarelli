@@ -42,17 +42,17 @@
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="tailwind" width="50" height="50"/></a>&nbsp;&nbsp;
         <a href="https://mui.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/materialui.png" alt="materialUI" title="materialUI" width="50" height="50"></a>&nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/materialui.png" alt="materialUI" title="materialUI" width="45" height="45"></a>&nbsp;&nbsp;
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="bootstrap"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="bootstrap" width="50" height="50"/></a>&nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="bootstrap" width="48" height="48"/></a>&nbsp;
         <a href="https://swiperjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/swiper.png" alt="swiper.js" title="swiper.js" width="50" height="50"></a>&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/swiper.png" alt="swiper.js" title="swiper.js" width="45" height="45"></a>&nbsp;
         <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/vercel.png" alt="vercel" title="vercel" width="70" height="50" padding="5"></a>&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/vercel.png" alt="vercel" title="vercel" width="70" height="50"></a>&nbsp;
         <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/vite.png" alt="vite" title="vite" width="50" height="50"></a>&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/vite.png" alt="vite" title="vite" width="47" height="47"></a>&nbsp;
         <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/netlify.png" alt="netlify" title="netlify" width="100" height="50"></a>&nbsp;
+            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/netlify.png" alt="netlify" title="netlify" width="80" height="40"></a>&nbsp;
         <a href="https://railway.app/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/railway-removebg-preview.png" alt="railway" title="railway" width="50" height="50"></a>&nbsp;
         <a href="https://github.com/" target="_blank" rel="noreferrer">
