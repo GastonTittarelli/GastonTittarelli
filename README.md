@@ -26,9 +26,9 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="45" height="45"/></a>&nbsp;&nbsp;
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="50" height="50"/></a>&nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="45" height="45"/></a>&nbsp;
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react" width="50" height="50"/></a>&nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react" width="46" height="46"/></a>&nbsp;
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="50" height="50"/></a>&nbsp;
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -36,7 +36,7 @@
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="mongodb" width="50" height="50"/></a>&nbsp;
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="50" height="50"/></a>&nbsp;
+          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="47" height="47"/></a>&nbsp;
         <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/handlebars.png" alt="handlebars" title="handlebars" width="50" height="50"></a>&nbsp;&nbsp;
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
