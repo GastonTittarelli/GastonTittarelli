@@ -32,7 +32,7 @@
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="50" height="50"/></a>&nbsp;&nbsp;
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" title="express" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" title="express" width="50" height="50"/></a>&nbsp;&nbsp;
         <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/jest.png" alt="jest" title="jest" width="41" height="48"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
