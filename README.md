@@ -10,7 +10,7 @@
 
 <p align="left"> Technologies that I've been working on:</p>
 <p align="left"> 🚀 HTML | CSS | SASS | JavaScript | TypeScript | ReactJS | GitHub | Tailwind | Material UI | Bootstrap |</p>
-<p align="left"> 🚀 Node.JS | NPM | Express.JS | API Rest | Mongo DB | Firebase | Playwright |</p>
+<p align="left"> 🚀 Node.JS | NPM | Express.JS | API Rest | Mongo DB | Firebase | Jest | Playwright |</p>
 
 
 
