@@ -9,9 +9,8 @@
 <p> I am a Full Stack developer with a strong proficiency in front-end technologies. My primary focus is on crafting digital solutions, and I am enthusiastic about expanding my skills in an innovative development environment. </p>
 
 <p align="left"> Technologies that I've been working on:</p>
-<p align="left"> 🚀 HTML | CSS | SASS | JavaScript | TypeScript | ReactJS | GitHub | Tailwind | Material UI | Bootstrap |</p>
-<p align="left"> 🚀 Node.JS | NPM | Express.JS | API Rest | Mongo DB | Firebase | Jest | Playwright |</p>
-
+<p align="left"> 🚀 HTML | CSS | SASS | JavaScript | TypeScript | ReactJS | Redux | Tailwind | Material UI | Bootstrap | Ant Design |</p>
+<p align="left"> 🚀 Node.JS | NPM | Express.JS | Webpack | API Rest | Mongo DB | Firebase | Jest | Playwright |</p>
 
 
 <br>
