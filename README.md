@@ -29,6 +29,8 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="45" height="45"/></a>&nbsp;&nbsp;
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react" width="46" height="46"/></a>&nbsp;&nbsp;
+        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/redux.png" alt="redux.js" title="redux.js" width="46" height="46"/></a>&nbsp;&nbsp;
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="50" height="50"/></a>&nbsp;&nbsp;
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -51,6 +53,10 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="bootstrap" width="48" height="48"/></a>&nbsp;&nbsp;
         <a href="https://swiperjs.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/swiper.png" alt="swiper.js" title="swiper.js" width="45" height="45"></a>&nbsp;&nbsp;
+        <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/webpack.png" alt="webpack" title="webpack" width="45" height="45"></a>&nbsp;&nbsp;
+        <a href="https://bubble.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/bubble.png" alt="bubble" title="bubble" width="45" height="45"></a>&nbsp;&nbsp;
         <a href="https://vercel.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/vercel.png" alt="vercel" title="vercel" width="70" height="50"></a>&nbsp;&nbsp;
         <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
