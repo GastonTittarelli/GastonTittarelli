@@ -75,7 +75,7 @@
         <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/npm.png" alt="npm" title="npm" width="41" height="41"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://pagespeed.web.dev/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/ff02247a05f5b24f7959d10469216679e06ef680/pagespeed.svg" alt="pagespeed" title="pagespeed" width="43" height="43"></a>&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/ff02247a05f5b24f7959d10469216679e06ef680/pagespeed.svg" alt="pagespeed" title="pagespeed" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.artsteps.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/artsteps.png" alt="artsteps" title="artsteps" width="45" height="45"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
