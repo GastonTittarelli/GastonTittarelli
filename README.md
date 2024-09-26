@@ -33,7 +33,7 @@
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="50" height="50"/></a>&nbsp;&nbsp;
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" title="express" width="50" height="50"/></a>&nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/express.png" alt="express" title="express" width="50" height="50"/></a>&nbsp;&nbsp;
         <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/jest.png" alt="jest" title="jest" width="41" height="48"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
@@ -49,7 +49,7 @@
         <a href="https://mui.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/materialui.png" alt="materialUI" title="materialUI" width="45" height="45"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="bootstrap"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="bootstrap" width="48" height="48"/></a>&nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/bootstrap.png" alt="bootstrap" title="bootstrap" width="48" height="48"/></a>&nbsp;&nbsp;
         <a href="https://swiperjs.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/swiper.png" alt="swiper.js" title="swiper.js" width="45" height="45"></a>&nbsp;&nbsp;
         <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
@@ -57,13 +57,13 @@
         <a href="https://bubble.io/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/bubble.png" alt="bubble" title="bubble" width="45" height="45"></a>&nbsp;&nbsp;
         <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/vercel.png" alt="vercel" title="vercel" width="70" height="50"></a>&nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel.png" alt="vercel" title="vercel" width="70" height="50"></a>&nbsp;&nbsp;
         <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/vite.png" alt="vite" title="vite" width="47" height="47"></a>&nbsp;&nbsp;
         <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/netlify.png" alt="netlify" title="netlify" width="80" height="40"></a>&nbsp;&nbsp;
         <a href="https://railway.app/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/railway-removebg-preview.png" alt="railway" title="railway" width="50" height="50"></a>&nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/railway-removebg-preview.png" alt="railway" title="railway" width="50" height="50"></a>&nbsp;&nbsp;
         <a href="https://github.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/github.png" alt="github" title="github" width="47" height="47"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://postman.com" target="_blank" rel="noreferrer">
