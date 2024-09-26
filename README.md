@@ -57,7 +57,7 @@
         <a href="https://bubble.io/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/bubble1.png" alt="bubble" title="bubble" width="45" height="45"></a>&nbsp;&nbsp;
         <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel.png" alt="vercel" title="vercel" width="70" height="50"></a>&nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel1.png" alt="vercel" title="vercel" width="70" height="50"></a>&nbsp;&nbsp;
         <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/vite.png" alt="vite" title="vite" width="47" height="47"></a>&nbsp;&nbsp;
         <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
