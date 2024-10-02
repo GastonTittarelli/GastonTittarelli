@@ -101,8 +101,7 @@
 </p>
 
 <p align="center">
- <h4 align="left" width="380">Creative Arts & Virtual Museum</h4>
- <h4 align="right" width="380">Drink Selection & Business Connection</h4>
+ <h4 align="center">Creative Arts & Virtual Museum     Drink Selection & Business Connection</h4>
 </p>
 
 <br>
