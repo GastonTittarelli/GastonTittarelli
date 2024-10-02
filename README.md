@@ -50,6 +50,8 @@
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/materialui.png" alt="materialUI" title="materialUI" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="bootstrap"> 
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/bootstrap.png" alt="bootstrap" title="bootstrap" width="44" height="44"/></a>&nbsp;&nbsp;
+        <a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer" title="chakra UI"> 
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/chakraUI.png" alt="chakra UI" title="chakra UI" width="44" height="44"/></a>&nbsp;&nbsp;
         <a href="https://swiperjs.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/swiper.png" alt="swiper.js" title="swiper.js" width="41" height="41"></a>&nbsp;&nbsp;
         <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
@@ -62,6 +64,8 @@
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/vite.png" alt="vite" title="vite" width="43" height="43"></a>&nbsp;&nbsp;
         <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/netlify.png" alt="netlify" title="netlify" width="80" height="40"></a>&nbsp;&nbsp;
+        <a href="https://axios-http.com/es/docs/intro" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/axios.png" alt="axios" title="axios" width="63" height="53"></a>&nbsp;&nbsp;
         <a href="https://railway.app/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/railway-removebg-preview.png" alt="railway" title="railway" width="44" height="44"></a>&nbsp;&nbsp;
         <a href="https://github.com/" target="_blank" rel="noreferrer">
