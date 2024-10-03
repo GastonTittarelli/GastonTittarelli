@@ -65,7 +65,7 @@
         <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/netlify.png" alt="netlify" title="netlify" width="80" height="40"></a>&nbsp;&nbsp;
         <a href="https://axios-http.com/es/docs/intro" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/axios1.png" alt="axios" title="axios" width="65" height="45"></a>&nbsp;&nbsp;
+            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/axios1.png" alt="axios" title="axios" width="63" height="40"></a>&nbsp;&nbsp;
         <a href="https://railway.app/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/railway-removebg-preview.png" alt="railway" title="railway" width="44" height="44"></a>&nbsp;&nbsp;
         <a href="https://github.com/" target="_blank" rel="noreferrer">
