@@ -91,7 +91,7 @@
 <br>
 <br>
 
-<h2 align="left"> 💡 Real Impact (Professional Projects) </h2>
+<h2 align="left"> 💡 Professional Impact (Real Projects) </h2>
 <h4> Explore work that goes beyond code, transforming concepts into products and services that create a tangible impact on their environment.</h4>
 
 <br>
@@ -105,6 +105,25 @@
 </p>
 
 <br>
+
+
+
+<h2 align="left"> 💼 A Glimpse into Personal Projects </h2>
+<h4> Explore a few standout personal projects that showcase experimentation, learning, and technical growth.</h4>
+
+<br>
+
+<p align="center">
+   <a href="https://e-commerce-ashy-rho.vercel.app/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/e-commerce.jpg" alt="E-commerce page link" title="E-Commerce" width="40%" height="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            
+   <a href="https://gastontittarelli.github.io/Pokedex-Redux/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/Pokedex.jpg" alt="Pokedex page" title="Pokedex Redux" width="40%" height="auto"></a>
+</p>
+
+<br>
+
+
 
 <h2 align="left"> 📊 Stats: </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gastontittarelli&show_icons=true&locale=en&layout=compact&theme=dark" alt="gastontittarelli" /></p>
