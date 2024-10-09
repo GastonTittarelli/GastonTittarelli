@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="left"> 🙋🏻‍♂️ About me:</h2>
-<h3>Full Stack programmer / Front-End specialist.</h3>
+<h3>Full Stack programmer / Front-End specialist</h3>
 <p> I am a Full Stack developer with a strong proficiency in front-end technologies. My primary focus is on crafting digital solutions, and I am enthusiastic about expanding my skills in an innovative development environment. </p>
 
 <p align="left"> Technologies that I've been working on:</p>
