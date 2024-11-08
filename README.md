@@ -38,6 +38,10 @@
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/jest.png" alt="jest" title="jest" width="39" height="44"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/playwright.png" alt="playwright" title="playwright" width="55" height="45"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/MySql.png" alt="MySQL" title="MySQL" width="55" height="55"></a>&nbsp;&nbsp;
+        <a href="https://glitch.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/Glitch.png" alt="Glitch" title="Glitch" width="55" height="41"></a>&nbsp;&nbsp;
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="mongodb" width="48" height="48"/></a>&nbsp;&nbsp;
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -52,6 +56,8 @@
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/bootstrap.png" alt="bootstrap" title="bootstrap" width="44" height="44"/></a>&nbsp;&nbsp;
         <a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer" title="chakra UI"> 
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/chakraUI.png" alt="chakra UI" title="chakra UI" width="44" height="44"/></a>&nbsp;&nbsp;
+        <a href="https://ant.design/" target="_blank" rel="noreferrer" title="Ant Design"> 
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/antDesign.png" alt="Ant Design" title="Ant Design" width="44" height="44"/></a>&nbsp;&nbsp;
         <a href="https://swiperjs.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/swiper.png" alt="swiper.js" title="swiper.js" width="41" height="41"></a>&nbsp;&nbsp;
         <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
