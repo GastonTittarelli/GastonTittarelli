@@ -9,10 +9,11 @@
 <p> I am a Full Stack developer with a strong proficiency in front-end technologies. My primary focus is on crafting digital solutions, and I am enthusiastic about expanding my skills in an innovative development environment. </p>
 
 
-<p align="left"> 🚀 | &nbsp; Html5 &nbsp; | &nbsp; Css &nbsp; | &nbsp; Sass &nbsp; | &nbsp; Javascript &nbsp; | &nbsp; Typescript &nbsp; | &nbsp; React &nbsp; | &nbsp; Redux.js &nbsp; | &nbsp; Nodejs &nbsp; | &nbsp; Express &nbsp; | &nbsp; Jest &nbsp; | &nbsp; Playwright &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; Mongodb &nbsp; | &nbsp; Firebase &nbsp; | &nbsp; Glitch &nbsp; | &nbsp; Tailwind &nbsp; | &nbsp; Material UI &nbsp; | &nbsp; Bootstrap &nbsp; | &nbsp; Chakra UI &nbsp; | &nbsp; Ant Design &nbsp; | &nbsp; Swiper.js &nbsp; | &nbsp; Webpack &nbsp; | &nbsp; Bubble &nbsp; | &nbsp; Vercel &nbsp; | &nbsp; Vite &nbsp; | &nbsp; Netlify &nbsp; | &nbsp; Axios &nbsp; | &nbsp; Railway &nbsp; | &nbsp; Github &nbsp; | &nbsp; Postman &nbsp; | &nbsp; Stripe &nbsp; | &nbsp; Tidio &nbsp; | &nbsp; Npm &nbsp; | &nbsp; API Rest &nbsp; | &nbsp; PageSpeed &nbsp; | &nbsp; Artsteps &nbsp; | &nbsp; Canva &nbsp; | &nbsp; Clipchamp &nbsp; | &nbsp; Agile Methodologies - Scrum &nbsp; | 🚀 </p>
-<p align="left"> 🚀 </p>
-<p align="left"> 🚀 </p>
-
+<p align="left"> 🚀 | &nbsp; Html5 &nbsp; | &nbsp; Css &nbsp; | &nbsp; Sass &nbsp; | &nbsp; Javascript &nbsp; | &nbsp; Typescript &nbsp; | &nbsp; React &nbsp; | &nbsp; Redux.js &nbsp; | &nbsp; Nodejs &nbsp; | &nbsp; Express &nbsp; | &nbsp; Jest &nbsp; | &nbsp; Playwright &nbsp; | &nbsp; MySQL &nbsp; | </p> 
+<p align="left"> 🚀 | &nbsp; Mongodb &nbsp; | &nbsp; Firebase &nbsp; | &nbsp; Glitch &nbsp; | &nbsp; Tailwind &nbsp; | &nbsp; Material UI &nbsp; | &nbsp; Bootstrap &nbsp; | &nbsp; Chakra UI &nbsp; | &nbsp; Ant Design &nbsp; | &nbsp; Swiper.js &nbsp; | &nbsp; Webpack &nbsp; | &nbsp; Bubble &nbsp; | </p>
+<p align="left"> 🚀 | &nbsp; Vercel &nbsp; | &nbsp; Vite &nbsp; | &nbsp; Netlify &nbsp; | &nbsp; Axios &nbsp; | &nbsp; Railway &nbsp; | &nbsp; Github &nbsp; | &nbsp; Postman &nbsp; | &nbsp; Stripe &nbsp; | &nbsp; Tidio &nbsp; | &nbsp; Npm &nbsp; | &nbsp; API Rest &nbsp; | &nbsp; PageSpeed &nbsp; | </p>
+<p align="left"> 🚀 | &nbsp; Artsteps &nbsp; | &nbsp; Canva &nbsp; | &nbsp; Clipchamp &nbsp; | &nbsp; Agile Methodologies - Scrum &nbsp; | </p>
+  
 <br>
 <h2 align="left"> 💻 Languages and Tools:</h2>
 <p align="left"> 
