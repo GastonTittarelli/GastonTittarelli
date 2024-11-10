@@ -9,8 +9,8 @@
 <p> I am a Full Stack developer with a strong proficiency in front-end technologies. My primary focus is on crafting digital solutions, and I am enthusiastic about expanding my skills in an innovative development environment. </p>
 
 <p align="left"> Technologies that I've been working on:</p>
-<p align="left"> 🚀 HTML | CSS | SASS | JavaScript | TypeScript | ReactJS | Redux | Tailwind | Material UI | Bootstrap | Ant Design |</p>
-<p align="left"> 🚀 Node.JS | NPM | Express.JS | Webpack | API Rest | Mongo DB | Firebase | Jest | Playwright |</p>
+<p align="left"> 🚀 HTML | CSS | SASS | JavaScript | TypeScript | ReactJS | Redux | Tailwind | Material UI | Bootstrap | Ant Design | </p>
+<p align="left"> 🚀 Node.JS | NPM | Express.JS | Webpack | API Rest | Mongo DB | Firebase | Jest | Playwright | </p>
 
 
 <br>
@@ -40,12 +40,12 @@
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/playwright.png" alt="playwright" title="playwright" width="55" height="45"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/MySql.png" alt="MySQL" title="MySQL" width="55" height="55"></a>&nbsp;&nbsp;
-        <a href="https://glitch.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/Glitch.png" alt="Glitch" title="Glitch" width="55" height="41"></a>&nbsp;&nbsp;
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="mongodb" width="48" height="48"/></a>&nbsp;&nbsp;
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="43" height="43"/></a>&nbsp;&nbsp;
+        <a href="https://glitch.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/Glitch.png" alt="Glitch" title="Glitch" width="55" height="41"></a>&nbsp;&nbsp;
         <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/handlebars.png" alt="handlebars" title="handlebars" width="48" height="48"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
