@@ -9,7 +9,7 @@
 <p> I am a Full Stack developer with a strong proficiency in front-end technologies. My primary focus is on crafting digital solutions, and I am enthusiastic about expanding my skills in an innovative development environment. </p>
 
 
-<p align="left"> 🚀 Html | Css | Sass | Javascript | Typescript | React | Redux.js | Nodejs | Express | Jest | Playwright | MySQL | Mongodb | Firebase | Glitch | Handlebars | Tailwind | Material UI | Bootstrap | Chakra UI | Ant Design | Swiper.js | Webpack | Bubble | Vercel | Vite | Netlify | Axios | Railway | Postman | Stripe | Tidio | Npm | API Rest | PageSpeed | Artsteps | Canva | Clipchamp | Agile Methodologies – Scrum. 🚀 </p>
+<p align="left"> 🚀 |  Html  |  Css  |  Sass  |  Javascript  |  Typescript  | React | Redux.js | Nodejs | Express | Jest | Playwright | MySQL | Mongodb | Firebase | Glitch | Handlebars | Tailwind | Material UI | Bootstrap | Chakra UI | Ant Design | Swiper.js | Webpack | Bubble | Vercel | Vite | Netlify | Axios | Railway | Postman | Stripe | Tidio | Npm | API Rest | PageSpeed | Artsteps | Canva | Clipchamp | Agile Methodologies – Scrum. | 🚀 </p>
 
 
 <br>
