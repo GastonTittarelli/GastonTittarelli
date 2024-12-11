@@ -64,7 +64,7 @@
         <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/webpack.png" alt="webpack" title="webpack" width="42" height="42"></a>&nbsp;&nbsp;
         <a href="https://bubble.io/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/babell.png" alt="babel" title="babel" width="65" height="42"></a>&nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/babell.png" alt="babel" title="babel" width="67" height="40"></a>&nbsp;&nbsp;
         <a href="https://vercel.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel1.png" alt="vercel" title="vercel" width="65" height="42"></a>&nbsp;&nbsp;
         <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
