@@ -50,7 +50,7 @@
         <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/handlebars.png" alt="handlebars" title="handlebars" width="48" height="48"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/tailwind.png" alt="tailwind" title="tailwind" width="48" height="42"/></a>&nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/tailwind.png" alt="tailwind" title="tailwind" width="52" height="41"/></a>&nbsp;&nbsp;
         <a href="https://mui.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/materialui.png" alt="materialUI" title="materialUI" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="bootstrap"> 
