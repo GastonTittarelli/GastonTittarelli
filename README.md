@@ -78,7 +78,7 @@
         <a href="https://github.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/github.png" alt="github" title="github" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://postman.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/postman-removebg-preview.png" alt="postman" title="postman" width="43" height="43"/></a>&nbsp;&nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/postman.png" alt="postman" title="postman" width="43" height="43"/></a>&nbsp;&nbsp;&nbsp;
         <a href="https://stripe.com/es-us" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/stripe.png" alt="stripe" title="stripe" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.tidio.com/" target="_blank" rel="noreferrer">
