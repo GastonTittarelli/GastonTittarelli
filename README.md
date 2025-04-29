@@ -57,7 +57,7 @@
         <a href="https://ant.design/" target="_blank" rel="noreferrer" title="Ant Design"> 
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/antDesign.png" alt="Ant Design" title="Ant Design" width="44" height="44"/></a>&nbsp;&nbsp;
         <a href="https://swiperjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/swiper.png" alt="swiper.js" title="swiper.js" width="41" height="41"></a>&nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/swiper.png" alt="swiper.js" title="swiper.js" width="41" height="41"></a>&nbsp;&nbsp;
         <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/webpack.png" alt="webpack" title="webpack" width="42" height="42"></a>&nbsp;&nbsp;
         <a href="https://bubble.io/" target="_blank" rel="noreferrer">
@@ -73,7 +73,7 @@
         <a href="https://railway.app/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/railway-removebg-preview.png" alt="railway" title="railway" width="44" height="44"></a>&nbsp;&nbsp;
         <a href="https://github.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/github.png" alt="github" title="github" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/github.png" alt="github" title="github" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://postman.com" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/postman.png" alt="postman" title="postman" width="43" height="43"/></a>&nbsp;&nbsp;&nbsp;
         <a href="https://stripe.com/es-us" target="_blank" rel="noreferrer">
