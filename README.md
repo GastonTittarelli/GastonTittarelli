@@ -45,7 +45,7 @@
         <a href="https://glitch.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/Glitch.png" alt="Glitch" title="Glitch" width="55" height="41"></a>&nbsp;&nbsp;
         <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/handlebars.png" alt="handlebars" title="handlebars" width="48" height="48"></a>&nbsp;&nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/handlebars.png" alt="handlebars" title="handlebars" width="48" height="48"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/tailwind.png" alt="tailwind" title="tailwind" width="60" height="38"/></a>&nbsp;&nbsp;
         <a href="https://mui.com/" target="_blank" rel="noreferrer">
