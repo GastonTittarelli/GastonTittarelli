@@ -108,7 +108,7 @@
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/artPage.png" alt="art page" width="400"/>
       </a>
       <br>
-      💻 <a href="https://github.com/GastonTittarelli/LuigiaArt" target="_blank" rel="noreferrer" style="text-decoration: none;">Repository</a> &nbsp;&nbsp;&nbsp;
+      💻 <a href="https://github.com/GastonTittarelli/LuigiaArt" target="_blank" rel="noreferrer" style="text-decoration: none">Repository</a> &nbsp;&nbsp;&nbsp;
       🌐 <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer" style="text-decoration: none;">Web App</a>
     </td>
     <td align="center" width="50%">
