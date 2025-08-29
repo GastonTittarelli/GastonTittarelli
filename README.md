@@ -182,10 +182,10 @@
     <td align="center" width="50%">
       <h3>PadelAccion</h3>
       <a href="" target="_blank" rel="noreferrer">
-        <img alt="screenshot7" src="https://github.com/user-attachments/assets/14fb7231-3cc8-49fa-b873-c50edf23ce38" alt="PadelAccion" width="400"/>
+        <img alt="screenshot7" src="https://github.com/GastonTittarelli/PadelAccion" alt="PadelAccion" width="400"/>
       </a>
       <br>
-      💼 <a href="" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
+      💼 <a href="https://github.com/GastonTittarelli/PadelAccion" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
     </td>
   </tr>
 </table>
