@@ -120,7 +120,6 @@
       💼 <a href="https://github.com/GastonTittarelli/Rick-and-Morty" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
       🌐 <a href="rick-and-morty-blond-three.vercel.app/" target="_blank" rel="noreferrer">Web App</a>
     </td>
-    <br>
   </tr>
 
   <tr width="95%">
@@ -142,7 +141,6 @@
       💼 <a href="https://github.com/GastonTittarelli/distribuidoraProyect" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
       🌐 <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">Web App</a>
     </td>
-    <br>
   </tr>
   
   <tr width="95%">
@@ -157,7 +155,6 @@
     </td>
     <td align="center" width="50%">
     </td>
-    <br>
   </tr>
 </table>
 
