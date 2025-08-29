@@ -186,7 +186,6 @@
       </a>
       <br>
       💼 <a href="" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
-      🌐 <a href="" target="_blank" rel="noreferrer">Web App</a>
     </td>
   </tr>
 </table>
