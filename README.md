@@ -121,7 +121,8 @@
       🌐 <a href="rick-and-morty-blond-three.vercel.app/" target="_blank" rel="noreferrer">Web App</a>
     </td>
   </tr>
-
+</table>
+<table align="center" width="100%">
   <tr width="95%">
     <td align="center" width="50%">
       <h3>Glamour Attic</h3>
