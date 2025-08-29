@@ -106,8 +106,12 @@
             
    <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/Drink%20Selection.jpg" alt="distribuidora page" title="distribuidoratittarelli.com.ar" width="45%" height="auto"></a>
-</p>
 
+ <a href="https://github.com/GastonTittarelli/Rick-and-Morty" target="_blank" rel="noreferrer">
+<img width="1918" height="917" alt="screenshot" src="https://github.com/user-attachments/assets/61287b37-7825-4d42-9e0a-06da0a6ae224" /></a>
+<a href="https://rick-and-morty-blond-three.vercel.app/auth/login" target="_blank" rel="noreferrer">Rick and Morty web aplication</a>
+
+</p>
 <br>
 
 
