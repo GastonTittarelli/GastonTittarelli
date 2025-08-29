@@ -103,7 +103,7 @@
 <table align="center" width="100%">
   <tr width="95%">
     <td align="center" width="50%">
-      <h3>Luigia Art</h3>
+      <h3>LuigiaArt</h3>
       <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/artPage.png" alt="art page" width="400"/>
       </a>
@@ -112,6 +112,7 @@
       🌐 <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">Web App</a>
     </td>
     <td align="center" width="50%">
+      <h3>Distribuidora</h3>
       <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/Drink%20Selection.jpg" alt="distribuidora page" width="400"/>
       </a>
@@ -121,8 +122,9 @@
   </tr>
   <tr width="95%">
     <td align="center" width="50%">
+      <h3>Rick & Morty Verse</h3>
       <a href="https://github.com/GastonTittarelli/Rick-and-Morty" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/61287b37-7825-4d42-9e0a-06da0a6ae224" alt="Rick and Morty" width="400"/>
+        <img src="https://github.com/user-attachments/assets/b1e4850c-11b3-4d5c-bf2e-d00f51a8e9dd" alt="Rick and Morty" width="400" />
       </a>
       <br>
       <a href="https://github.com/GastonTittarelli/Rick-and-Morty" target="_blank" rel="noreferrer">Rick and Morty Repo</a>
