@@ -100,7 +100,7 @@
 
 <br>
 
-<p align="center">
+<!--  <p align="center">
    <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/artPage.png" alt="art page link" title="luigiaart.com.ar" width="45%" height="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp;
             
@@ -113,7 +113,40 @@
  <a href="https://github.com/GastonTittarelli/Rick-and-Morty" target="_blank" rel="noreferrer">
 <img width="45%" height="auto" alt="screenshot" src="https://github.com/user-attachments/assets/61287b37-7825-4d42-9e0a-06da0a6ae224" /></a>
 <a href="https://rick-and-morty-blond-three.vercel.app/auth/login" target="_blank" rel="noreferrer">Rick and Morty web aplication</a>
-</p>
+</p> -->
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/artPage.png" alt="art page" width="250"/>
+      </a>
+      <br>
+      <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">luigiaart.com.ar</a>
+    </td>
+    <td align="center">
+      <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/Drink%20Selection.jpg" alt="distribuidora page" width="250"/>
+      </a>
+      <br>
+      <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">distribuidoratittarelli.com.ar</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/GastonTittarelli/Rick-and-Morty" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/61287b37-7825-4d42-9e0a-06da0a6ae224" alt="Rick and Morty" width="250"/>
+      </a>
+      <br>
+      <a href="https://github.com/GastonTittarelli/Rick-and-Morty" target="_blank" rel="noreferrer">Rick and Morty Repo</a>
+    </td>
+    <td align="center">
+      <!-- otro proyecto -->
+    </td>
+  </tr>
+</table>
+
+
 <br>
 
 
