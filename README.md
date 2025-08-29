@@ -115,16 +115,16 @@
 <a href="https://rick-and-morty-blond-three.vercel.app/auth/login" target="_blank" rel="noreferrer">Rick and Morty web aplication</a>
 </p> -->
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/artPage.png" alt="art page" width="45%"/>
       </a>
       <br>
       <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">luigiaart.com.ar</a>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/Drink%20Selection.jpg" alt="distribuidora page" width="45%"/>
       </a>
@@ -133,14 +133,14 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/GastonTittarelli/Rick-and-Morty" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/61287b37-7825-4d42-9e0a-06da0a6ae224" alt="Rick and Morty" width="45%"/>
       </a>
       <br>
       <a href="https://github.com/GastonTittarelli/Rick-and-Morty" target="_blank" rel="noreferrer">Rick and Morty Repo</a>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <!-- otro proyecto -->
     </td>
   </tr>
