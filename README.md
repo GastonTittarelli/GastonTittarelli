@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="1905" height="916" alt="image" src="https://github.com/user-attachments/assets/f0720dea-0283-4d4f-8f58-a29e25710e3c" /><h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=77&duration=1500&pause=300&color=38C2FFFF&background=000000&center=true&vCenter=true&multiline=true&random=false&width=1920&height=300&lines=Hi+there!;I'm+Gast%C3%B3n;Welcome+to+my+Github+profile;aa" alt="Typing SVG" />
   </a>
@@ -112,25 +112,33 @@
       🌐 <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">Web App</a>
     </td>
     <td align="center" width="50%">
-      <h3>Distribuidora</h3>
-      <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/Drink%20Selection.jpg" alt="distribuidora page" width="400"/>
+      <h3>Rick & Morty Verse</h3>
+      <a href="rick-and-morty-blond-three.vercel.app/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/b1e4850c-11b3-4d5c-bf2e-d00f51a8e9dd" alt="Rick and Morty" width="400" />
       </a>
       <br>
-      <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">distribuidoratittarelli.com.ar</a>
+      💼 <a href="https://github.com/GastonTittarelli/Rick-and-Morty" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
+      🌐 <a href="rick-and-morty-blond-three.vercel.app/" target="_blank" rel="noreferrer">Web App</a>
     </td>
   </tr>
   <tr width="95%">
     <td align="center" width="50%">
-      <h3>Rick & Morty Verse</h3>
-      <a href="https://github.com/GastonTittarelli/Rick-and-Morty" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/b1e4850c-11b3-4d5c-bf2e-d00f51a8e9dd" alt="Rick and Morty" width="400" />
+      <h3>Glamour Attic</h3>
+      <a href="https://github.com/GastonTittarelli/E-commerce" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/3b039a14-a2cf-46a0-b8a5-d64a30af34e9" alt="Glamour Attic" width="400" />
       </a>
       <br>
-      <a href="https://github.com/GastonTittarelli/Rick-and-Morty" target="_blank" rel="noreferrer">Rick and Morty Repo</a>
+      💼 <a href="https://github.com/GastonTittarelli/E-commerce" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
+      🌐 <a href="https://glamourattic.vercel.app/" target="_blank" rel="noreferrer">Web App</a>
     </td>
     <td align="center" width="50%">
-      <!-- otro proyecto -->
+      <h3>Distribuidora</h3>
+      <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/00d17354-5b58-47c3-9c76-54a2e64a91ef"  alt="distribuidora page" width="400"/>
+      </a>
+      <br>
+      💼 <a href="https://github.com/GastonTittarelli/distribuidoraProyect" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
+      🌐 <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">Web App</a>
     </td>
   </tr>
 </table>
