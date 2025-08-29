@@ -121,6 +121,7 @@
       🌐 <a href="rick-and-morty-blond-three.vercel.app/" target="_blank" rel="noreferrer">Web App</a>
     </td>
   </tr>
+  <br>
   <tr width="95%">
     <td align="center" width="50%">
       <h3>Glamour Attic</h3>
@@ -141,6 +142,7 @@
       🌐 <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">Web App</a>
     </td>
   </tr>
+  <br>
   <tr width="95%">
     <td align="center" width="50%">
       <h3>Poke Redux</h3>
