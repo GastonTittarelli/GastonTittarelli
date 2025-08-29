@@ -122,6 +122,7 @@
     </td>
   </tr>
 </table>
+
 <table align="center" width="100%">
   <tr width="95%">
     <td align="center" width="50%">
@@ -143,7 +144,9 @@
       🌐 <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">Web App</a>
     </td>
   </tr>
-  
+  </table>
+
+<table align="center" width="100%">
   <tr width="95%">
     <td align="center" width="50%">
       <h3>Poke Redux</h3>
@@ -162,6 +165,29 @@
       <br>
       💼 <a href="https://github.com/GastonTittarelli/Blog" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
       🌐 <a href="https://mindfulbytes.vercel.app/" target="_blank" rel="noreferrer">Web App</a>
+    </td>
+  </tr>
+  </table>
+
+<table align="center" width="100%">
+  <tr width="95%">
+    <td align="center" width="50%">
+      <h3> </h3>
+      <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="400"/>
+      </a>
+      <br>
+      💼 <a href="" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
+      🌐 <a href="" target="_blank" rel="noreferrer">Web App</a>
+    </td>
+    <td align="center" width="50%">
+      <h3> </h3>
+      <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="400"/>
+      </a>
+      <br>
+      💼 <a href="" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
+      🌐 <a href="" target="_blank" rel="noreferrer">Web App</a>
     </td>
   </tr>
 </table>
