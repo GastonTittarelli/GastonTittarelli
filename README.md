@@ -100,29 +100,13 @@
 
 <br>
 
-<!--  <p align="center">
-   <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/artPage.png" alt="art page link" title="luigiaart.com.ar" width="45%" height="auto"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-            
-   <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/Drink%20Selection.jpg" alt="distribuidora page" title="distribuidoratittarelli.com.ar" width="45%" height="auto"></a>
-
-
-</p>
-<p align="center">
- <a href="https://github.com/GastonTittarelli/Rick-and-Morty" target="_blank" rel="noreferrer">
-<img width="45%" height="auto" alt="screenshot" src="https://github.com/user-attachments/assets/61287b37-7825-4d42-9e0a-06da0a6ae224" /></a>
-<a href="https://rick-and-morty-blond-three.vercel.app/auth/login" target="_blank" rel="noreferrer">Rick and Morty web aplication</a>
-</p> -->
-
 <table align="center" width="100%">
   <tr width="95%">
     <td align="center" width="50%">
-      <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/artPage.png" alt="art page" width="400"/>
-      </a>
+      <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/artPage.png" alt="art page" width="400"/>
       <br>
-      <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">luigiaart.com.ar</a>
+      <a href="https://github.com/GastonTittarelli/LuigiaArt" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
+      <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">Page</a>
     </td>
     <td align="center" width="50%">
       <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">
