@@ -181,8 +181,8 @@
     </td>
     <td align="center" width="50%">
       <h3>PadelAccion</h3>
-      <a href="" target="_blank" rel="noreferrer">
-        <img alt="screenshot7" src="https://github.com/GastonTittarelli/PadelAccion" alt="PadelAccion" width="400"/>
+      <a href="https://github.com/GastonTittarelli/PadelAccion" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/f18a3222-f558-4bfe-90b0-32549940ebce" alt="PadelAccion" width="400"/>
       </a>
       <br>
       💼 <a href="https://github.com/GastonTittarelli/PadelAccion" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
