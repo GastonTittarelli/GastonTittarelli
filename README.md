@@ -141,6 +141,19 @@
       🌐 <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">Web App</a>
     </td>
   </tr>
+  <tr width="95%">
+    <td align="center" width="50%">
+      <h3>Poke Redux</h3>
+      <a href="https://gastontittarelli.github.io/ReduxDex/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/855a4534-b2ef-40ae-91e1-77a0c12dd8e0" alt="Poke Redux" width="400" />
+      </a>
+      <br>
+      💼 <a href="https://github.com/GastonTittarelli/ReduxDex" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
+      🌐 <a href="https://gastontittarelli.github.io/ReduxDex/" target="_blank" rel="noreferrer">Web App</a>
+    </td>
+    <td align="center" width="50%">
+    </td>
+  </tr>
 </table>
 
 
