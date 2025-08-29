@@ -145,7 +145,7 @@
     <td align="center" width="50%">
       <h3>Poke Redux</h3>
       <a href="https://gastontittarelli.github.io/ReduxDex/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/855a4534-b2ef-40ae-91e1-77a0c12dd8e0" alt="Poke Redux" width="400" />
+        <img src="https://github.com/user-attachments/assets/89b114ca-824d-4808-90dd-420bfccdf80b" alt="Poke Redux" width="400"/>
       </a>
       <br>
       💼 <a href="https://github.com/GastonTittarelli/ReduxDex" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
