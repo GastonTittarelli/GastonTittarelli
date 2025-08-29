@@ -154,6 +154,13 @@
       🌐 <a href="https://gastontittarelli.github.io/ReduxDex/" target="_blank" rel="noreferrer">Web App</a>
     </td>
     <td align="center" width="50%">
+      <h3>Mindful Bytes</h3>
+      <a href="https://mindfulbytes.vercel.app/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/1b0db317-ef8c-43c4-bf49-fcb43a2a81f6" alt="PMindful Bytes" width="400"/>
+      </a>
+      <br>
+      💼 <a href="https://github.com/GastonTittarelli/Blog" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
+      🌐 <a href="https://mindfulbytes.vercel.app/" target="_blank" rel="noreferrer">Web App</a>
     </td>
   </tr>
 </table>
