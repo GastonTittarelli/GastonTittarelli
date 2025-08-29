@@ -1,4 +1,3 @@
-<!-- <img src="https://github.com/user-attachments/assets/f0720dea-0283-4d4f-8f58-a29e25710e3c" /><h1 align="center" width="1905" height="916" alt="image" > -->
   <a href="https://git.io/typing-svg" target="_blank" rel="noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=77&duration=1500&pause=300&color=38C2FFFF&background=000000&center=true&vCenter=true&multiline=true&random=false&width=1920&height=300&lines=Hi+there!;I'm+Gast%C3%B3n;Welcome+to+my+Github+profile;aa" alt="Typing SVG" />
   </a>
@@ -181,9 +180,9 @@
       🌐 <a href="" target="_blank" rel="noreferrer">Web App</a>
     </td>
     <td align="center" width="50%">
-      <h3> </h3>
+      <h3>PadelAccion</h3>
       <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="400"/>
+        <img alt="screenshot7" src="https://github.com/user-attachments/assets/14fb7231-3cc8-49fa-b873-c50edf23ce38" alt="PadelAccion" width="400"/>
       </a>
       <br>
       💼 <a href="" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
