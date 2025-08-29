@@ -103,12 +103,13 @@
 <table align="center" width="100%">
   <tr width="95%">
     <td align="center" width="50%">
+      <h3>Luigia Art</h3>
       <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/artPage.png" alt="art page" width="400"/>
       </a>
       <br>
-      <a href="https://github.com/GastonTittarelli/LuigiaArt" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
-      <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">Page ⬆️</a>
+      💻<a href="https://github.com/GastonTittarelli/LuigiaArt" target="_blank" rel="noreferrer"> Repository</a> &nbsp;&nbsp;&nbsp;
+      <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">🌐 Page</a>
     </td>
     <td align="center" width="50%">
       <a href="https://www.distribuidoratittarelli.com.ar/" target="_blank" rel="noreferrer">
