@@ -225,14 +225,12 @@
   </p>
 </p> --->
 <table border="0">
-  <tr>
-    <td align="left">
+  <tr border="0">
+    <td align="left" border="0">
       <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer">
         <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
       </a>
-      <span> gastontittarelli </span>
-    </td>
-    <td align="left">
+      <span> gastontittarelli </span>&nbsp;&nbsp;&nbsp;
       <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
       </a>
