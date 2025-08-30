@@ -94,8 +94,8 @@
 <br>
 <br>
 
-<h2 align="left"> 💡 Professional Impact (Real Projects) </h2>
-<h4> Explore work that goes beyond code, transforming concepts into products and services that create a tangible impact on their environment.</h4>
+<h2 align="left"> 💡 Professional Impact</h2>
+<h4> From freelance client collaborations to academic challenges, here are projects that not only sharpened my skills but also delivered value to real users.</h4>
 
 <br>
 
