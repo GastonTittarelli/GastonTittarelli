@@ -209,6 +209,7 @@
 <br>
 
 <h2 align="left"> 📫 How to reach me:</h2>
+<!--- 
 <p align="center" width="100%">
   <p align="left" width="48%">
     <a href="https://linkedin.com/in/gastontittarelli" target="blank" rel="noreferrer">
@@ -216,11 +217,26 @@
     </a>
     <a> gastontittarelli </a>
   </p> &nbsp;&nbsp;&nbsp;
-  
   <p align="left" width="48%">
     <a href="https://gmail.com" target="blank" height="35" width="35" rel="noreferrer">
         <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
     </a>
     <a> gastontittarelli1@gmail.com </a>
   </p>
-</p>
+</p> --->
+<table border="0">
+  <tr>
+    <td align="left">
+      <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer">
+        <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
+      </a>
+      <span> gastontittarelli </span>
+    </td>
+    <td align="left">
+      <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
+      </a>
+      <span> gastontittarelli1@gmail.com </span>
+    </td>
+  </tr>
+</table>
