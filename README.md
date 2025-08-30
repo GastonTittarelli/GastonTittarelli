@@ -208,31 +208,14 @@
 <br>
 <br>
 
-<h2 align="left"> 📫 How to reach me:</h2>
-<!--- 
-<p align="center" width="100%">
-  <p align="left" width="48%">
-    <a href="https://linkedin.com/in/gastontittarelli" target="blank" rel="noreferrer">
-        <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
-    </a>
-    <a> gastontittarelli </a>
-  </p> &nbsp;&nbsp;&nbsp;
-  <p align="left" width="48%">
-    <a href="https://gmail.com" target="blank" height="35" width="35" rel="noreferrer">
-        <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
-    </a>
-    <a> gastontittarelli1@gmail.com </a>
-  </p>
-</p> --->
+<h2 align="left"> 📫 Reach me:</h2>
 <p align="center" width="1000">
   <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer" width="400" align="center">
     <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" />
-    <p></p>
-    <span valign="middle">gastontittarelli </span>
+    <span valign="middle">gastontittarelli</span>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer" width="400" align="center">
     <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" />
-    <p></p>
     <span valign="middle">gastontittarelli1@gmail.com </span>
   </a>
 </p>
