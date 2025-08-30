@@ -229,8 +229,10 @@
       <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer">
         <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
       </a>
-      <span> gastontittarelli </span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer">
+      <span> gastontittarelli </span>
+      <a  width="200">
+      </a>
+      <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
       </a>
       <span> gastontittarelli1@gmail.com </span>
