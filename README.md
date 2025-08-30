@@ -209,21 +209,18 @@
 <br>
 
 <h2 align="left"> 📫 How to reach me:</h2>
-<p align="left">
-  <a href="https://linkedin.com/in/gastontittarelli" target="blank" rel="noreferrer">
-      <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
-  </a>
-  <a> gastontittarelli </a>
-  <br>
-  <br>
-  <a href="https://discord.com" target="blank" rel="noreferrer">
-      <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/discord-round.svg" alt="discord" height="30" width="30" />
-  </a>
-    <a> gastont </a>
-  <br>
-  <br>
-  <a href="https://gmail.com" target="blank" height="35" width="35" rel="noreferrer">
-      <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
-  </a>
-  <a> gastontittarelli1@gmail.com </a>
+<p align="center" width="100%">
+  <p align="left" width="48%">
+    <a href="https://linkedin.com/in/gastontittarelli" target="blank" rel="noreferrer">
+        <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
+    </a>
+    <a> gastontittarelli </a>
+  </p> &nbsp;&nbsp;&nbsp;
+  
+  <p align="left" width="48%">
+    <a href="https://gmail.com" target="blank" height="35" width="35" rel="noreferrer">
+        <img align="left" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
+    </a>
+    <a> gastontittarelli1@gmail.com </a>
+  </p>
 </p>
