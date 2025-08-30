@@ -167,7 +167,7 @@
     </td>
   </tr>
   </table>
-
+<!--
 <table align="center" width="100%">
   <tr width="95%">
     <td align="center" width="50%">
@@ -188,7 +188,7 @@
       💼 <a href="https://github.com/GastonTittarelli/PadelAccion" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
     </td>
   </tr>
-</table>
+</table> -->
 
 
 <br>
