@@ -209,15 +209,15 @@
 <br>
 
 <h2 align="left"> 📫 Reach me:</h2>
-<table align="center" width="1000" height="70">
-<tr>
-  <p width="200" align="center" height="30">
+<table align="center" width="1000">
+<tr width="900">
+  <p align="center">
     <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30"  />
-    <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer" width="100"  valign="middle">gastontittarelli</a>
+    <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer" valign="middle">gastontittarelli</a>
   </p>
-  <p width="200" align="center" height="30">
+  <p align="center">
     <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" />
-    <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer" width="100" valign="middle">gastontittarelli1@gmail.com</a>
+    <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer"valign="middle">gastontittarelli1@gmail.com</a>
   </p>
 </tr>
 </table>
