@@ -225,7 +225,7 @@
   </p>
 </p> --->
 <table  width="100%">
-  <tr  width="98%" align="center">
+  <td  width="98%" align="center">
       <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer">
         <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
       </a>
@@ -234,5 +234,5 @@
         <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
       </a>
       <span> gastontittarelli1@gmail.com </span>
-  </tr>
+  </td>
 </table>
