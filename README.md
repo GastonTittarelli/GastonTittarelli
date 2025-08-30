@@ -210,11 +210,11 @@
 
 <h2 align="left"> 📫 Reach me:</h2>
 <p align="center" width="1000">
-  <p width="400" align="center">
+  <p width="200" align="center">
     <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" />
     <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer"  valign="middle">gastontittarelli</a>
-  </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-  <p width="400" align="center">
+  </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <p width="200" align="center">
     <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" />
     <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer" valign="middle">gastontittarelli1@gmail.com</a>
   </p>
