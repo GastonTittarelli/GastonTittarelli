@@ -224,15 +224,15 @@
     <a> gastontittarelli1@gmail.com </a>
   </p>
 </p> --->
-<p align="center">
-  <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer">
+<p align="center" width="1000">
+  <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer" width="400">
     <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" />
     <span"> gastontittarelli </span>
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer" width="400">
     <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" />
     <span> gastontittarelli1@gmail.com </span>
   </a>
