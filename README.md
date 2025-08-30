@@ -209,13 +209,13 @@
 <br>
 
 <h2 align="left"> 📫 Reach me:</h2>
-<div width="1000">
-  <p align="center" width="200">
-    <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30"  />
-    <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer" width="100" valign="middle">gastontittarelli</a>
-  </p>
-  <p align="center" width="200">
+<p align="center" width="1000">
+  <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer" width="400" align="center">
+    <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" />
+    <span valign="middle">gastontittarelli</span>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer" width="400" align="center">
     <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" />
-    <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer" width="100" valign="middle">gastontittarelli1@gmail.com</a>
-  </p>
-</div>
+    <span valign="middle">gastontittarelli1@gmail.com </span>
+  </a>
+</p>
