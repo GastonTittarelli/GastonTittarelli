@@ -167,17 +167,17 @@
     </td>
   </tr>
   </table>
-<!--
+
 <table align="center" width="100%">
   <tr width="95%">
     <td align="center" width="50%">
-      <h3> </h3>
-      <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="400"/>
-      </a>
+      <h3>FIFA Player Manager</h3>
+      <!--- <a href="" target="_blank" rel="noreferrer"> --->
+        <img src="https://github.com/user-attachments/assets/7163ee0c-9db8-40fb-888a-b4abf74c5fc1" alt="" width="400"/>
+     <!--- </a> --->
       <br>
-      💼 <a href="" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
-      🌐 <a href="" target="_blank" rel="noreferrer">Web App</a>
+      <!--- 💼 <a href="" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
+      🌐 <a href="" target="_blank" rel="noreferrer">Web App</a> --->
     </td>
     <td align="center" width="50%">
       <h3>PadelAccion</h3>
@@ -188,7 +188,7 @@
       💼 <a href="https://github.com/GastonTittarelli/PadelAccion" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
     </td>
   </tr>
-</table> -->
+</table> 
 
 
 <br>
