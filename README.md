@@ -230,7 +230,7 @@
         <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
       </a>
       <span> gastontittarelli </span>
-      <a  width="200">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </a>
       <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
