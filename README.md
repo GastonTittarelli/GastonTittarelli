@@ -224,16 +224,21 @@
     <a> gastontittarelli1@gmail.com </a>
   </p>
 </p> --->
-<p align="center">
-  <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer">
-    <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" valign="middle" />
-    <span valign="middle"> gastontittarelli </span>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" valign="middle" />
-    <span valign="middle"> gastontittarelli1@gmail.com </span>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer">
+        <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" />
+      </a>
+      <br/>
+      <span>gastontittarelli</span>
+    </td>
+    <td align="center">
+      <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" />
+      </a>
+      <br/>
+      <span>gastontittarelli1@gmail.com</span>
+    </td>
+  </tr>
+</table>
