@@ -224,8 +224,8 @@
     <a> gastontittarelli1@gmail.com </a>
   </p>
 </p> --->
-<table border="0">
-  <tr border="0">
+<table border="0" width="100%">
+  <tr border="0" width="98%" align="center">
       <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer">
         <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
       </a>
