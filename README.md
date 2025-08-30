@@ -224,8 +224,8 @@
     <a> gastontittarelli1@gmail.com </a>
   </p>
 </p> --->
-<table  width="1000">
-  <tr  width="1000" align="center">
+<table border="0" width="1000">
+  <td border="0" width="1000" align="center">
       <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer">
         <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" width="30" />
       </a>
@@ -234,5 +234,5 @@
         <img src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" />
       </a>
       <span> gastontittarelli1@gmail.com </span>
-  </tr>
+  </td>
 </table>
