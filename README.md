@@ -211,11 +211,11 @@
 <h2 align="left"> 📫 Reach me:</h2>
 <p align="center" width="1000" height="70">
   <p width="200" align="center" height="30">
-    <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30" />
-    <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer"  valign="middle">gastontittarelli</a>
+    <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="30"  />
+    <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer" width="100"  valign="middle">gastontittarelli</a>
   </p>
   <p width="200" align="center" height="30">
     <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" />
-    <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer" valign="middle">gastontittarelli1@gmail.com</a>
+    <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer" width="100" valign="middle">gastontittarelli1@gmail.com</a>
   </p>
 </p>
