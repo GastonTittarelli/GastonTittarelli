@@ -140,7 +140,8 @@
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/playwright.png" alt="playwright" title="playwright" width="55" height="45"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/MySql.png" alt="MySQL" title="MySQL" width="55" height="55"></a>&nbsp;&nbsp;
-  <br>
+  </p>
+
   <p align="center">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="43" height="43"/></a>&nbsp;&nbsp;
@@ -166,7 +167,9 @@
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/babell.png" alt="babel" title="babel" width="67" height="40"></a>&nbsp;&nbsp;
     <a href="https://vercel.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel1.png" alt="vercel" title="vercel" width="65" height="42"></a>&nbsp;&nbsp;
-  <br>
+  </p>
+
+<p align="center">
     <a href="https://vercel.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel1.png" alt="vercel" title="vercel" width="65" height="42"></a>&nbsp;&nbsp;
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
