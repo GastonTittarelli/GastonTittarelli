@@ -169,7 +169,34 @@
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel1.png" alt="vercel" title="vercel" width="65" height="42"></a>&nbsp;&nbsp;
   </p>
 
-  
+<p align="center">
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel1.png" alt="vercel" title="vercel" width="65" height="42"></a>&nbsp;&nbsp;
+    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/vite.png" alt="vite" title="vite" width="43" height="43"></a>&nbsp;&nbsp;
+    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/netlify.png" alt="netlify" title="netlify" width="80" height="40"></a>&nbsp;&nbsp;
+    <a href="https://axios-http.com/es/docs/intro" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/axios1.png" alt="axios" title="axios" width="72" height="46"></a>&nbsp;&nbsp;
+    <a href="https://railway.app/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/railway-removebg-preview.png" alt="railway" title="railway" width="44" height="44"></a>&nbsp;&nbsp;
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/github.png" alt="github" title="github" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/postman.png" alt="postman" title="postman" width="43" height="43"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://stripe.com/es-us" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/stripe.png" alt="stripe" title="stripe" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.tidio.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/tidio.png" alt="tidio" title="tidio" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/npm.png" alt="npm" title="npm" width="41" height="41"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://pagespeed.web.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/ff02247a05f5b24f7959d10469216679e06ef680/pagespeed.svg" alt="pagespeed" title="pagespeed" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.artsteps.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/artsteps.png" alt="artsteps" title="artsteps" width="45" height="45"></a>&nbsp;&nbsp;&nbsp;
+  </p>
+
+
 <br>
 <br>
 
