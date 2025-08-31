@@ -142,7 +142,7 @@
     <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/playwright.png" alt="playwright" title="playwright" width="55" height="45"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/MySql.png" alt="MySQL" title="MySQL" width="55" height="55"></a>&nbsp;&nbsp; <!--- --->
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/MySql.png" alt="MySQL" title="MySQL" width="55" height="55"></a>&nbsp;&nbsp; <br> <!--- --->
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="43" height="43"/></a>&nbsp;&nbsp;
     <a href="https://glitch.com/" target="_blank" rel="noreferrer">
