@@ -10,6 +10,7 @@
 
 <!-- <p align="left"> | &nbsp; HTML &nbsp; | &nbsp; CSS &nbsp; | &nbsp; SCSS &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; TypeScript &nbsp; | &nbsp; Angular &nbsp; | &nbsp; React &nbsp; | &nbsp; Redux &nbsp; | &nbsp; Node.js &nbsp; | &nbsp; Express.js &nbsp; | &nbsp; Jest &nbsp; | &nbsp; Playwright &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; MongoDB &nbsp; | &nbsp; Firebase &nbsp; | &nbsp; Microsoft Azure &nbsp; | &nbsp; AWS &nbsp; | &nbsp; Glitch &nbsp; | &nbsp; Tailwind &nbsp; | &nbsp; Material UI &nbsp; | &nbsp; Bootstrap &nbsp; | &nbsp; Chakra UI &nbsp; | &nbsp; Ant Design &nbsp; | &nbsp; Swiper &nbsp; | &nbsp; Webpack &nbsp; | &nbsp; Babel &nbsp; | &nbsp; Vercel &nbsp; | &nbsp; Vite &nbsp; | &nbsp; Netlify &nbsp; | &nbsp; Axios &nbsp; | &nbsp; Railway &nbsp; | &nbsp; Github &nbsp; | &nbsp; Postman &nbsp; | &nbsp; Mobaxterm &nbsp; | &nbsp; Stripe &nbsp; | &nbsp; Tidio &nbsp; | &nbsp; Npm &nbsp; | &nbsp; API Rest &nbsp; |  &nbsp; PageSpeed &nbsp; | &nbsp; Artsteps &nbsp; | &nbsp; Canva &nbsp; | &nbsp; Clipchamp &nbsp; | &nbsp; Agile Methodologies - Scrum &nbsp; | &nbsp; 🚀  </p> --->
 
+<!---
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,10 +31,11 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) --->
   
 <br>
 <h2 align="left"> 💻 Languages and Tools:</h2>
+<!---
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="45" height="45"/></a>&nbsp;
@@ -111,8 +113,63 @@
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/canva.png" alt="canva" title="canva" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://clipchamp.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/clipchamp.png" alt="clipchamp" title="clipchamp" width="41" height="41"></a>
+  </p> --->
+
+  <p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="45" height="45"/></a>&nbsp;
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" title="css" width="45" height="45"/></a>&nbsp;
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" title="sass" width="45" height="45"/></a>&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="40" height="40"/></a>&nbsp;&nbsp;
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react" width="43" height="43"/></a>&nbsp;&nbsp;
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/redux.png" alt="redux.js" title="redux.js" width="42" height="42"/></a>&nbsp;&nbsp;
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="50" height="50"/></a>&nbsp;&nbsp;
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/express.png" alt="express" title="express" width="45" height="45"/></a>&nbsp;&nbsp;
+    <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/jest.png" alt="jest" title="jest" width="39" height="44"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/playwright.png" alt="playwright" title="playwright" width="55" height="45"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/MySql.png" alt="MySQL" title="MySQL" width="55" height="55"></a>&nbsp;&nbsp;
   </p>
 
+  <p align="left">
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="43" height="43"/></a>&nbsp;&nbsp;
+    <a href="https://glitch.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/Glitch.png" alt="Glitch" title="Glitch" width="55" height="41"></a>&nbsp;&nbsp;
+    <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/handlebars.png" alt="handlebars" title="handlebars" width="48" height="48"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/tailwind.png" alt="tailwind" title="tailwind" width="60" height="38"/></a>&nbsp;&nbsp;
+    <a href="https://mui.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/materialui.png" alt="materialUI" title="materialUI" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="bootstrap"> 
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/bootstrap.png" alt="bootstrap" title="bootstrap" width="44" height="44"/></a>&nbsp;&nbsp;
+    <a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer" title="chakra UI"> 
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/chakraUI.png" alt="chakra UI" title="chakra UI" width="44" height="44"/></a>&nbsp;&nbsp;
+    <a href="https://ant.design/" target="_blank" rel="noreferrer" title="Ant Design"> 
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/antDesign.png" alt="Ant Design" title="Ant Design" width="44" height="44"/></a>&nbsp;&nbsp;
+    <a href="https://swiperjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/swiper.png" alt="swiper.js" title="swiper.js" width="41" height="41"></a>&nbsp;&nbsp;
+    <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/webpack.png" alt="webpack" title="webpack" width="42" height="42"></a>&nbsp;&nbsp;
+    <a href="https://bubble.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/babell.png" alt="babel" title="babel" width="67" height="40"></a>&nbsp;&nbsp;
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel1.png" alt="vercel" title="vercel" width="65" height="42"></a>&nbsp;&nbsp;
+  </p>
+
+  
 <br>
 <br>
 
