@@ -116,7 +116,8 @@
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/canva.png" alt="canva" title="canva" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://clipchamp.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/clipchamp.png" alt="clipchamp" title="clipchamp" width="41" height="41"></a>
-  </p> 
+  </p> --->
+  
   <p align="center"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="45" height="45"/></a>&nbsp;
@@ -141,9 +142,7 @@
     <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/playwright.png" alt="playwright" title="playwright" width="55" height="45"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/MySql.png" alt="MySQL" title="MySQL" width="55" height="55"></a>&nbsp;&nbsp;
-  </p>
-  <p align="center">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/MySql.png" alt="MySQL" title="MySQL" width="55" height="55"></a>&nbsp;&nbsp; <!--- --->
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="43" height="43"/></a>&nbsp;&nbsp;
     <a href="https://glitch.com/" target="_blank" rel="noreferrer">
@@ -167,9 +166,7 @@
     <a href="https://bubble.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/babell.png" alt="babel" title="babel" width="67" height="40"></a>&nbsp;&nbsp;
     <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel1.png" alt="vercel" title="vercel" width="65" height="42"></a>&nbsp;&nbsp;
-  </p>
-<p align="center">
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel1.png" alt="vercel" title="vercel" width="65" height="42"></a>&nbsp;&nbsp; <!--- --->
     <a href="https://vercel.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel1.png" alt="vercel" title="vercel" width="65" height="42"></a>&nbsp;&nbsp;
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
@@ -194,32 +191,8 @@
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/ff02247a05f5b24f7959d10469216679e06ef680/pagespeed.svg" alt="pagespeed" title="pagespeed" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.artsteps.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/artsteps.png" alt="artsteps" title="artsteps" width="45" height="45"></a>&nbsp;&nbsp;&nbsp;
-  </p> --->
+  </p> 
 
-<p align="center">
-  
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-  ![Playwright](https://img.shields.io/badge/-Playwright-ffffff?style=for-the-badge&logo=playwright&logoColor=black)
-  ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-  ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-  ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
-  ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
-</p>
 
 <br>
 <br>
