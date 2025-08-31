@@ -142,9 +142,9 @@
     <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/playwright.png" alt="playwright" title="playwright" width="55" height="45"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/MySql.png" alt="MySQL" title="MySQL" width="55" height="55"></a>&nbsp;&nbsp; <br> <!--- --->
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/MySql.png" alt="MySQL" title="MySQL" width="55" height="55"></a>&nbsp;&nbsp;
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="43" height="43"/></a>&nbsp;&nbsp;
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="43" height="43"/></a>&nbsp;&nbsp;  <br> <!--- --->
     <a href="https://glitch.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/Glitch.png" alt="Glitch" title="Glitch" width="55" height="41"></a>&nbsp;&nbsp;
     <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer">
@@ -166,11 +166,9 @@
     <a href="https://bubble.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/babell.png" alt="babel" title="babel" width="67" height="40"></a>&nbsp;&nbsp;
     <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel1.png" alt="vercel" title="vercel" width="65" height="42"></a>&nbsp;&nbsp; <br> <!--- --->
-    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel1.png" alt="vercel" title="vercel" width="65" height="42"></a>&nbsp;&nbsp;
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel1.png" alt="vercel" title="vercel" width="65" height="42"></a>&nbsp;&nbsp; 
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/vite.png" alt="vite" title="vite" width="43" height="43"></a>&nbsp;&nbsp;
+        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/vite.png" alt="vite" title="vite" width="43" height="43"></a>&nbsp;&nbsp; <br> <!--- --->
     <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/netlify.png" alt="netlify" title="netlify" width="80" height="40"></a>&nbsp;&nbsp;
     <a href="https://axios-http.com/es/docs/intro" target="_blank" rel="noreferrer">
