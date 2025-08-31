@@ -10,7 +10,7 @@
 
 <!-- <p align="left"> | &nbsp; HTML &nbsp; | &nbsp; CSS &nbsp; | &nbsp; SCSS &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; TypeScript &nbsp; | &nbsp; Angular &nbsp; | &nbsp; React &nbsp; | &nbsp; Redux &nbsp; | &nbsp; Node.js &nbsp; | &nbsp; Express.js &nbsp; | &nbsp; Jest &nbsp; | &nbsp; Playwright &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; MongoDB &nbsp; | &nbsp; Firebase &nbsp; | &nbsp; Microsoft Azure &nbsp; | &nbsp; AWS &nbsp; | &nbsp; Glitch &nbsp; | &nbsp; Tailwind &nbsp; | &nbsp; Material UI &nbsp; | &nbsp; Bootstrap &nbsp; | &nbsp; Chakra UI &nbsp; | &nbsp; Ant Design &nbsp; | &nbsp; Swiper &nbsp; | &nbsp; Webpack &nbsp; | &nbsp; Babel &nbsp; | &nbsp; Vercel &nbsp; | &nbsp; Vite &nbsp; | &nbsp; Netlify &nbsp; | &nbsp; Axios &nbsp; | &nbsp; Railway &nbsp; | &nbsp; Github &nbsp; | &nbsp; Postman &nbsp; | &nbsp; Mobaxterm &nbsp; | &nbsp; Stripe &nbsp; | &nbsp; Tidio &nbsp; | &nbsp; Npm &nbsp; | &nbsp; API Rest &nbsp; |  &nbsp; PageSpeed &nbsp; | &nbsp; Artsteps &nbsp; | &nbsp; Canva &nbsp; | &nbsp; Clipchamp &nbsp; | &nbsp; Agile Methodologies - Scrum &nbsp; | &nbsp; 🚀  </p> --->
 
-<!---
+
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,7 +31,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) --->
+![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
   
 <br>
 <h2 align="left"> 💻 Languages and Tools:</h2>
@@ -115,7 +115,7 @@
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/clipchamp.png" alt="clipchamp" title="clipchamp" width="41" height="41"></a>
   </p> --->
 
-  <p align="left"> 
+  <p align="center"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="45" height="45"/></a>&nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -142,7 +142,7 @@
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/MySql.png" alt="MySQL" title="MySQL" width="55" height="55"></a>&nbsp;&nbsp;
   </p>
 
-  <p align="left">
+  <p align="center">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="43" height="43"/></a>&nbsp;&nbsp;
     <a href="https://glitch.com/" target="_blank" rel="noreferrer">
