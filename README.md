@@ -9,31 +9,6 @@
 
 
 <!-- <p align="left"> | &nbsp; HTML &nbsp; | &nbsp; CSS &nbsp; | &nbsp; SCSS &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; TypeScript &nbsp; | &nbsp; Angular &nbsp; | &nbsp; React &nbsp; | &nbsp; Redux &nbsp; | &nbsp; Node.js &nbsp; | &nbsp; Express.js &nbsp; | &nbsp; Jest &nbsp; | &nbsp; Playwright &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; MongoDB &nbsp; | &nbsp; Firebase &nbsp; | &nbsp; Microsoft Azure &nbsp; | &nbsp; AWS &nbsp; | &nbsp; Glitch &nbsp; | &nbsp; Tailwind &nbsp; | &nbsp; Material UI &nbsp; | &nbsp; Bootstrap &nbsp; | &nbsp; Chakra UI &nbsp; | &nbsp; Ant Design &nbsp; | &nbsp; Swiper &nbsp; | &nbsp; Webpack &nbsp; | &nbsp; Babel &nbsp; | &nbsp; Vercel &nbsp; | &nbsp; Vite &nbsp; | &nbsp; Netlify &nbsp; | &nbsp; Axios &nbsp; | &nbsp; Railway &nbsp; | &nbsp; Github &nbsp; | &nbsp; Postman &nbsp; | &nbsp; Mobaxterm &nbsp; | &nbsp; Stripe &nbsp; | &nbsp; Tidio &nbsp; | &nbsp; Npm &nbsp; | &nbsp; API Rest &nbsp; |  &nbsp; PageSpeed &nbsp; | &nbsp; Artsteps &nbsp; | &nbsp; Canva &nbsp; | &nbsp; Clipchamp &nbsp; | &nbsp; Agile Methodologies - Scrum &nbsp; | &nbsp; 🚀  </p> 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-ffffff?style=for-the-badge&logo=playwright&logoColor=black)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
---->
-
-
-
   
 <br>
 <h2 align="left"> 💻 Languages and Tools:</h2>
@@ -118,98 +93,6 @@
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/clipchamp.png" alt="clipchamp" title="clipchamp" width="41" height="41"></a>
   </p> --->
   
-  <p align="center"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="45" height="45"/></a>&nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" title="css" width="45" height="45"/></a>&nbsp;
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" title="sass" width="45" height="45"/></a>&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="40" height="40"/></a>&nbsp;&nbsp;
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react" width="43" height="43"/></a>&nbsp;&nbsp;
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/redux.png" alt="redux.js" title="redux.js" width="42" height="42"/></a>&nbsp;&nbsp;
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="50" height="50"/></a>&nbsp;&nbsp;
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/express.png" alt="express" title="express" width="45" height="45"/></a>&nbsp;&nbsp;
-    <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/jest.png" alt="jest" title="jest" width="39" height="44"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/playwright.png" alt="playwright" title="playwright" width="55" height="45"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/MySql.png" alt="MySQL" title="MySQL" width="55" height="55"></a>&nbsp;&nbsp;
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="43" height="43"/></a>&nbsp;&nbsp;  <br> <!--- --->
-    <a href="https://glitch.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/Glitch.png" alt="Glitch" title="Glitch" width="55" height="41"></a>&nbsp;&nbsp;
-    <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/handlebars.png" alt="handlebars" title="handlebars" width="48" height="48"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/tailwind.png" alt="tailwind" title="tailwind" width="60" height="38"/></a>&nbsp;&nbsp;
-    <a href="https://mui.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/materialui.png" alt="materialUI" title="materialUI" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="bootstrap"> 
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/bootstrap.png" alt="bootstrap" title="bootstrap" width="44" height="44"/></a>&nbsp;&nbsp;
-    <a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer" title="chakra UI"> 
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/chakraUI.png" alt="chakra UI" title="chakra UI" width="44" height="44"/></a>&nbsp;&nbsp;
-    <a href="https://ant.design/" target="_blank" rel="noreferrer" title="Ant Design"> 
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/antDesign.png" alt="Ant Design" title="Ant Design" width="44" height="44"/></a>&nbsp;&nbsp;
-    <a href="https://swiperjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/swiper.png" alt="swiper.js" title="swiper.js" width="41" height="41"></a>&nbsp;&nbsp;
-    <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/webpack.png" alt="webpack" title="webpack" width="42" height="42"></a>&nbsp;&nbsp;
-    <a href="https://bubble.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/babell.png" alt="babel" title="babel" width="67" height="40"></a>&nbsp;&nbsp;
-    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel1.png" alt="vercel" title="vercel" width="65" height="42"></a>&nbsp;&nbsp; 
-    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/vite.png" alt="vite" title="vite" width="43" height="43"></a>&nbsp;&nbsp; <br> <!--- --->
-    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/netlify.png" alt="netlify" title="netlify" width="80" height="40"></a>&nbsp;&nbsp;
-    <a href="https://axios-http.com/es/docs/intro" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/axios1.png" alt="axios" title="axios" width="72" height="46"></a>&nbsp;&nbsp;
-    <a href="https://railway.app/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/railway-removebg-preview.png" alt="railway" title="railway" width="44" height="44"></a>&nbsp;&nbsp;
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/github.png" alt="github" title="github" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/postman.png" alt="postman" title="postman" width="43" height="43"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://stripe.com/es-us" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/stripe.png" alt="stripe" title="stripe" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.tidio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/tidio.png" alt="tidio" title="tidio" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/npm.png" alt="npm" title="npm" width="41" height="41"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://pagespeed.web.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/ff02247a05f5b24f7959d10469216679e06ef680/pagespeed.svg" alt="pagespeed" title="pagespeed" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.artsteps.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/artsteps.png" alt="artsteps" title="artsteps" width="45" height="45"></a>&nbsp;&nbsp;&nbsp;
-  </p> 
-
-<br>
-<p align="center"> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/angular.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nestjs.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dbeaver.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cypress.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jasmine.svg" width="40" height="40"/>
-</p> 
-
-<br>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-</p>
-
 
 #### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -277,66 +160,6 @@
 ![Agile](https://img.shields.io/badge/Agile-009688?logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-4B0082?logo=abstract&logoColor=white)
-
-<br>
-
-
-<p align="center">
-  #### Frontend
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" width="40" />
-  <img src="https://cdn.simpleicons.org/chakraui/319795" width="40" />
-  <img src="https://cdn.simpleicons.org/antdesign/0170FE" width="40" />
-  <img src="https://cdn.simpleicons.org/swiper/6332F6" width="40" />
-
-  #### Backend
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40" />
-
-  #### Testing
-  <img src="https://cdn.simpleicons.org/jest/C21325" width="40" />
-  <img src="https://cdn.simpleicons.org/playwright/2EAD33" width="40" />
-  <img src="https://cdn.simpleicons.org/cypress/17202C" width="40" />
-  <img src="https://cdn.simpleicons.org/jasmine/8A4182" width="40" />
-  <img src="https://cdn.simpleicons.org/karma/3DDC84" width="40" />
-
-  #### Data Bases
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-
-  #### DevOps & Cloud
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="40" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" width="40" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" />
-  <img src="https://cdn.simpleicons.org/railway/0B0D0E" width="40" />
-  <img src="https://cdn.simpleicons.org/glitch/3333FF" width="40" />
-
-  #### Tools
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" />
-  <img src="https://cdn.simpleicons.org/axios/5A29E4" width="40" />
-  <img src="https://cdn.simpleicons.org/stripe/626CD9" width="40" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" />
-  <img src="https://cdn.simpleicons.org/microsoft/8612F9" width="40" />
-  <img src="https://cdn.simpleicons.org/pagespeedinsights/4285F4" width="40" />
-
-</p>
 
 
 <br>
