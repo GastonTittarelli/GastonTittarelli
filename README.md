@@ -210,9 +210,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
-## 🚀 Tecnologías y Herramientas
 
-### Frontend
+#### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
@@ -229,28 +228,28 @@
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?logo=antdesign&logoColor=white)
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?logo=swiper&logoColor=white)
 
-### Backend
+#### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![API Rest](https://img.shields.io/badge/API-02569B?logo=fastapi&logoColor=white)
 ![CRUD](https://img.shields.io/badge/CRUD-FF6F00?logo=graphql&logoColor=white)
 
-### Testing
+#### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white)
 ![Karma](https://img.shields.io/badge/Karma-3DDC84?logo=karma&logoColor=white)
 
-### Bases de Datos
+#### Data Bases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white)
 
-### DevOps & Cloud
+#### DevOps & Cloud
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Pipelines](https://img.shields.io/badge/Pipelines-0078D7?logo=azure-devops&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
@@ -260,7 +259,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 ![Glitch](https://img.shields.io/badge/Glitch-3333FF?logo=glitch&logoColor=white)
 
-### Herramientas
+#### Tools
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
@@ -274,10 +273,70 @@
 ![Artsteps](https://img.shields.io/badge/Artsteps-FF5733?logo=artstation&logoColor=white)
 ![PageSpeed](https://img.shields.io/badge/PageSpeed-4285F4?logo=pagespeedinsights&logoColor=white)
 
-### Metodologías & Principios
+#### Metodologías & Principios
 ![Agile](https://img.shields.io/badge/Agile-009688?logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-4B0082?logo=abstract&logoColor=white)
+
+<br>
+
+
+<p align="center">
+  #### Frontend
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" />
+  <img src="https://cdn.simpleicons.org/mui/007FFF" width="40" />
+  <img src="https://cdn.simpleicons.org/chakraui/319795" width="40" />
+  <img src="https://cdn.simpleicons.org/antdesign/0170FE" width="40" />
+  <img src="https://cdn.simpleicons.org/swiper/6332F6" width="40" />
+
+  #### Backend
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40" />
+
+  #### Testing
+  <img src="https://cdn.simpleicons.org/jest/C21325" width="40" />
+  <img src="https://cdn.simpleicons.org/playwright/2EAD33" width="40" />
+  <img src="https://cdn.simpleicons.org/cypress/17202C" width="40" />
+  <img src="https://cdn.simpleicons.org/jasmine/8A4182" width="40" />
+  <img src="https://cdn.simpleicons.org/karma/3DDC84" width="40" />
+
+  #### Data Bases
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+
+  #### DevOps & Cloud
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="40" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="40" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" />
+  <img src="https://cdn.simpleicons.org/railway/0B0D0E" width="40" />
+  <img src="https://cdn.simpleicons.org/glitch/3333FF" width="40" />
+
+  #### Tools
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" />
+  <img src="https://cdn.simpleicons.org/axios/5A29E4" width="40" />
+  <img src="https://cdn.simpleicons.org/stripe/626CD9" width="40" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" />
+  <img src="https://cdn.simpleicons.org/microsoft/8612F9" width="40" />
+  <img src="https://cdn.simpleicons.org/pagespeedinsights/4285F4" width="40" />
+
+</p>
 
 
 <br>
