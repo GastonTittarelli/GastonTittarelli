@@ -109,8 +109,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-3B4A6B?logo=sequelize&logoColor=white)
 ![CRUD](https://img.shields.io/badge/CRUD-FF6F00?logoColor=white)
 ![API Rest](https://img.shields.io/badge/API%20Rest-5B9BD5?logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?logo=swagger&logoColor=black)
 
 #### Testing
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
@@ -128,6 +130,9 @@
 
 #### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00BFA6?&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF6F00?logo=amazonapigateway&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
@@ -154,6 +159,7 @@
 ![Agile](https://img.shields.io/badge/Agile-009688?logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-4B0082?&logoColor=white)
+![Given-When-Then](https://img.shields.io/badge/Given--When--Then-575757?logo=none&logoColor=white)
 
 #### Libreries
 ![Angular Material](https://img.shields.io/badge/Angular%20Material-757575?logo=angular&logoColor=white)
@@ -163,17 +169,9 @@
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?logo=chakraui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?logo=antdesign&logoColor=white)
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?logo=swiper&logoColor=white)
-
-<br>
-
-![Given-When-Then](https://img.shields.io/badge/Given--When--Then-575757?logo=none&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00BFA6?&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF6F00?logo=amazonapigateway&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-3B4A6B?logo=sequelize&logoColor=white)
 ![file-saver](https://img.shields.io/badge/file--saver-8E44AD?logo=none&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)
-![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?logo=swagger&logoColor=black)
+
 
 <br>
 <br>
