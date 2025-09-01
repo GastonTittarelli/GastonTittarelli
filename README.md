@@ -115,8 +115,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![API Rest](https://img.shields.io/badge/API-02569B?logo=fastapi&logoColor=white)
-![CRUD](https://img.shields.io/badge/CRUD-FF6F00?logo=graphql&logoColor=white)
+![API Rest](https://img.shields.io/badge/API-02569B?logoColor=white)
+![CRUD](https://img.shields.io/badge/CRUD-FF6F00?logoColor=white)
 
 #### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
