@@ -105,28 +105,32 @@
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
 
 
-#### Backend
+<h5>Backend</h5>
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-3B4A6B?logo=sequelize&logoColor=white)
 ![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?logo=swagger&logoColor=black)
 
-#### Data Bases
+<h5>Data Bases</h5>
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white)
 
-#### Testing
+<h5>Testing</h5>
+
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white)
 ![Karma](https://img.shields.io/badge/Karma-3DDC84?logo=karma&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 
-#### DevOps & Cloud
+<h5>DevOps & Cloud</h5>
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF6F00?logo=amazonapigateway&logoColor=white)
@@ -140,7 +144,8 @@
 ![Neon](https://img.shields.io/badge/Neon-00BFA6?&logoColor=white)
 ![Glitch](https://img.shields.io/badge/Glitch-3333FF?logo=glitch&logoColor=white)
 
-#### Tools
+<h5>Tools</h5>
+
 ![Mobaxterm](https://img.shields.io/badge/Mobaxterm-575757?logo=gnometerminal&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black)
@@ -154,7 +159,8 @@
 ![Clipchamp](https://img.shields.io/badge/Clipchamp-8612F9?logo=microsoft&logoColor=white)
 
 
-#### Libreries
+<h5>Libreries</h5>
+
 ![Angular Material](https://img.shields.io/badge/Angular%20Material-757575?logo=angular&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
@@ -165,7 +171,8 @@
 ![file-saver](https://img.shields.io/badge/file--saver-8E44AD?logo=none&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)
 
-#### Methodologies & Principles
+<h5>Methodologies & Principles</h5>
+
 ![CRUD](https://img.shields.io/badge/CRUD-FF6F00?logoColor=white)
 ![API Rest](https://img.shields.io/badge/API%20Rest-5B9BD5?logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-009688?logo=agile&logoColor=white)
