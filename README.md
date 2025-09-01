@@ -161,6 +161,11 @@
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-4B0082?logo=abstract&logoColor=white)
 
+<br>
+
+![Chart.js](https://img.shields.io/badge/Chart\.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
 <br>
 <br>
