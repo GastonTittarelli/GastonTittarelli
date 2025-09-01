@@ -6,8 +6,7 @@
 <h2 align="left"> 🙋🏻‍♂️ About me:</h2>
 <h3>Full Stack Developer / Frontend Focused</h3>
 <p> I am a Full Stack developer with a strong proficiency in Frontend technologies. My primary focus is on crafting digital solutions, and I am enthusiastic about expanding my skills in an innovative development environment. </p>
-
-
+<br>
 
 <h2 align="left"> 💻 Languages and Tools:</h2>
 
