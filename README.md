@@ -112,13 +112,6 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-3B4A6B?logo=sequelize&logoColor=white)
 ![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?logo=swagger&logoColor=black)
 
-#### Testing
-![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
-![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white)
-![Karma](https://img.shields.io/badge/Karma-3DDC84?logo=karma&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
-
 #### Data Bases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
@@ -126,7 +119,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white)
 
+#### Testing
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white)
+![Karma](https://img.shields.io/badge/Karma-3DDC84?logo=karma&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+
 #### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF6F00?logo=amazonapigateway&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
