@@ -222,8 +222,9 @@
   </a>
 </p> --->
 
-[![LinkedIn](https://img.shields.io/badge/gastontittarelli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastontittarelli)
-[![Gmail](https://img.shields.io/badge/gastontittarelli1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastontittarelli1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gastontittarelli-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gastontittarelli/)
+[![Gmail](https://img.shields.io/badge/Gmail-gastontittarelli1@gmail.com-red?style=social&logo=gmail)](mailto:gastontittarelli1@gmail.com)
+
 
 <!---
 <p align="left"> 
