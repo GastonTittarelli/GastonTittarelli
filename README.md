@@ -103,40 +103,35 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular%20Material-757575?logo=angular&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?logo=chakraui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?logo=antdesign&logoColor=white)
-![Swiper](https://img.shields.io/badge/Swiper-6332F6?logo=swiper&logoColor=white)
+
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![CRUD](https://img.shields.io/badge/CRUD-FF6F00?logoColor=white)
 ![API Rest](https://img.shields.io/badge/API%20Rest-5B9BD5?logoColor=white)
 
 #### Testing
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white)
 ![Karma](https://img.shields.io/badge/Karma-3DDC84?logo=karma&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 
 #### Data Bases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white)
 
 #### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Pipelines](https://img.shields.io/badge/Pipelines-0078D7?logo=azure-devops&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
@@ -150,16 +145,24 @@
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Mobaxterm](https://img.shields.io/badge/Mobaxterm-575757?logo=gnometerminal&logoColor=white)
+![PageSpeed](https://img.shields.io/badge/PageSpeed-4285F4?logo=pagespeedinsights&logoColor=white)
 ![Tidio](https://img.shields.io/badge/Tidio-2C7BE5?logo=tidio&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 ![Clipchamp](https://img.shields.io/badge/Clipchamp-8612F9?logo=microsoft&logoColor=white)
-![Artsteps](https://img.shields.io/badge/Artsteps-FF5733?logoColor=white)
-![PageSpeed](https://img.shields.io/badge/PageSpeed-4285F4?logo=pagespeedinsights&logoColor=white)
 
-#### Metodologías & Principios
+#### Methodologies & Principles
 ![Agile](https://img.shields.io/badge/Agile-009688?logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-4B0082?&logoColor=white)
+
+#### Libreries
+![Angular Material](https://img.shields.io/badge/Angular%20Material-757575?logo=angular&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?logo=chakraui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?logo=antdesign&logoColor=white)
+![Swiper](https://img.shields.io/badge/Swiper-6332F6?logo=swiper&logoColor=white)
 
 <br>
 
