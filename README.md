@@ -1,9 +1,8 @@
-  <a href="https://git.io/typing-svg" target="_blank" rel="noreferrer">
-    <!---<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=77&duration=1500&pause=300&color=0C469AFF&background=000000&center=true&vCenter=true&multiline=true&random=false&width=1920&height=300&lines=Hi+there!;I'm+Gast%C3%B3n;Welcome+to+my+Github+profile;aa" alt="Typing SVG" />
-  </a>  color=38C2FFFF background= 00000000--->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=77&duration=1500&pause=300&color=0C469AFF&background=000000&center=true&vCenter=true&multiline=true&random=false&width=1920&height=300&lines=%3C%3E+Hi+there!+%3C%2F%3E;%3C%3E+I%C2%B4m+Gast%C3%B3n+Tittarelli+%3C%2F%3E;%3C%3E+Welcome+to+my+Github+Profile+%3C%2F%3E;aa" alt="Typing SVG" /> 
-  </a>
+<a href="https://git.io/typing-svg" target="_blank" rel="noreferrer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=77&duration=1500&pause=300&color=0C469AFF&background=000000&center=true&vCenter=true&multiline=true&random=false&width=1920&height=300&lines=Hi+there!;I'm+Gast%C3%B3n;Welcome+to+my+Github+profile;aa" alt="Typing SVG" />
+</a>
 
+<br>
 
 <h2 align="left"> 🙋🏻‍♂️ About me:</h2>
 <h3>Full Stack Developer / Frontend Focused</h3>
