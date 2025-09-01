@@ -285,6 +285,20 @@
 <h2 align="left"> 📊 Stats: </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gastontittarelli&show_icons=true&locale=en&layout=compact&theme=dark" alt="gastontittarelli" /></p>
 
+<h3 align="center">Developing</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gastontittarelli" alt="gastontittarelli" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gastontittarelli&show_icons=true&locale=en&layout=compact" alt="gastontittarelli" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gastontittarelli&show_icons=true&locale=en" alt="gastontittarelli" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gastontittarelli&" alt="gastontittarelli" /></p>
+
 
 <br>
 <br>
