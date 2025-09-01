@@ -192,15 +192,16 @@
   </p> 
 
 <br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/angular.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nestjs.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dbeaver.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cypress.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jasmine.svg" width="40" height="40"/>
-
+<p align="center"> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/angular.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nestjs.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dbeaver.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cypress.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jasmine.svg" width="40" height="40"/>
+</p> 
 
 <br>
 <br>
