@@ -8,7 +8,7 @@
 <p> I am a Full Stack developer with a strong proficiency in Frontend technologies. My primary focus is on crafting digital solutions, and I am enthusiastic about expanding my skills in an innovative development environment. </p>
 
 
-<!-- <p align="left"> | &nbsp; HTML &nbsp; | &nbsp; CSS &nbsp; | &nbsp; SCSS &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; TypeScript &nbsp; | &nbsp; Angular &nbsp; | &nbsp; React &nbsp; | &nbsp; Redux &nbsp; | &nbsp; Node.js &nbsp; | &nbsp; Express.js &nbsp; | &nbsp; Jest &nbsp; | &nbsp; Playwright &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; MongoDB &nbsp; | &nbsp; Firebase &nbsp; | &nbsp; Microsoft Azure &nbsp; | &nbsp; AWS &nbsp; | &nbsp; Glitch &nbsp; | &nbsp; Tailwind &nbsp; | &nbsp; Material UI &nbsp; | &nbsp; Bootstrap &nbsp; | &nbsp; Chakra UI &nbsp; | &nbsp; Ant Design &nbsp; | &nbsp; Swiper &nbsp; | &nbsp; Webpack &nbsp; | &nbsp; Babel &nbsp; | &nbsp; Vercel &nbsp; | &nbsp; Vite &nbsp; | &nbsp; Netlify &nbsp; | &nbsp; Axios &nbsp; | &nbsp; Railway &nbsp; | &nbsp; Github &nbsp; | &nbsp; Postman &nbsp; | &nbsp; Mobaxterm &nbsp; | &nbsp; Stripe &nbsp; | &nbsp; Tidio &nbsp; | &nbsp; Npm &nbsp; | &nbsp; API Rest &nbsp; |  &nbsp; PageSpeed &nbsp; | &nbsp; Artsteps &nbsp; | &nbsp; Canva &nbsp; | &nbsp; Clipchamp &nbsp; | &nbsp; Agile Methodologies - Scrum &nbsp; | &nbsp; 🚀  </p> 
+<!-- <p align="left"> | &nbsp; HTML &nbsp; | &nbsp; CSS &nbsp; | &nbsp; SCSS &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; TypeScript &nbsp; | &nbsp; Angular &nbsp; | &nbsp; React &nbsp; | &nbsp; Redux &nbsp; | &nbsp; Node.js &nbsp; | &nbsp; Express.js &nbsp; | &nbsp; Jest &nbsp; | &nbsp; Playwright &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; MongoDB &nbsp; | &nbsp; Firebase &nbsp; | &nbsp; Microsoft Azure &nbsp; | &nbsp; AWS &nbsp; | &nbsp; Glitch &nbsp; | &nbsp; Tailwind &nbsp; | &nbsp; Material UI &nbsp; | &nbsp; Bootstrap &nbsp; | &nbsp; Chakra UI &nbsp; | &nbsp; Ant Design &nbsp; | &nbsp; Swiper &nbsp; | &nbsp; Webpack &nbsp; | &nbsp; Babel &nbsp; | &nbsp; Vercel &nbsp; | &nbsp; Vite &nbsp; | &nbsp; Netlify &nbsp; | &nbsp; Axios &nbsp; | &nbsp; Railway &nbsp; | &nbsp; Github &nbsp; | &nbsp; Postman &nbsp; | &nbsp; Mobaxterm &nbsp; | &nbsp; Stripe &nbsp; | &nbsp; Tidio &nbsp; | &nbsp; Npm &nbsp; | &nbsp; API Rest &nbsp; |  &nbsp; PageSpeed &nbsp; | &nbsp; Artsteps &nbsp; | &nbsp; Canva &nbsp; | &nbsp; Clipchamp &nbsp; | &nbsp; Agile Methodologies - Scrum &nbsp; | &nbsp; 🚀  </p> --->
   
 <br>
 <h2 align="left"> 💻 Languages and Tools:</h2>
@@ -96,7 +96,7 @@
 
 #### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=black)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
