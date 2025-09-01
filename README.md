@@ -191,6 +191,16 @@
         <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/artsteps.png" alt="artsteps" title="artsteps" width="45" height="45"></a>&nbsp;&nbsp;&nbsp;
   </p> 
 
+<br>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/angular.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nestjs.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dbeaver.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cypress.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jasmine.svg" width="40" height="40"/>
+
 
 <br>
 <br>
