@@ -117,7 +117,6 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![API Rest](https://img.shields.io/badge/API-02569B?logoColor=white)
 ![CRUD](https://img.shields.io/badge/CRUD-FF6F00?logoColor=white)
-![CRUD](https://img.shields.io/badge/CRUD-FF6F00?style=for-the-badge)
 
 #### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
