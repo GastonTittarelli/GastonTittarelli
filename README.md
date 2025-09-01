@@ -293,17 +293,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gastontittarelli&show_icons=true&locale=en" alt="gastontittarelli" /></p> -->
 
 
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 <h2 align="left"> 📫 Reach me:</h2>
