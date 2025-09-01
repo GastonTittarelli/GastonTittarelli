@@ -110,8 +110,6 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-3B4A6B?logo=sequelize&logoColor=white)
-![CRUD](https://img.shields.io/badge/CRUD-FF6F00?logoColor=white)
-![API Rest](https://img.shields.io/badge/API%20Rest-5B9BD5?logoColor=white)
 ![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?logo=swagger&logoColor=black)
 
 #### Testing
@@ -156,6 +154,8 @@
 ![Clipchamp](https://img.shields.io/badge/Clipchamp-8612F9?logo=microsoft&logoColor=white)
 
 #### Methodologies & Principles
+![CRUD](https://img.shields.io/badge/CRUD-FF6F00?logoColor=white)
+![API Rest](https://img.shields.io/badge/API%20Rest-5B9BD5?logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-009688?logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-4B0082?&logoColor=white)
