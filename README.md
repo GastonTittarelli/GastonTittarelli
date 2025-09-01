@@ -93,7 +93,7 @@
   </p> --->
   
 
-<h4>Frontend</h4>
+<h4>Frontend</h4> &nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
