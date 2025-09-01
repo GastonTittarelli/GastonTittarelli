@@ -80,7 +80,7 @@
 ![Agile](https://img.shields.io/badge/Agile-009688?logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-4B0082?&logoColor=white)
-![Given-When-Then](https://img.shields.io/badge/Given--When--Then-575757?logo=none&logoColor=white)
+![Given-When-Then](https://img.shields.io/badge/Given--When--Then-575757?logo=none&logoColor=white) --->
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -257,16 +257,6 @@
 
 
 <h2 align="left"> 📫 Reach me:</h2>
-<!--- <p align="left" width="1000">
-   <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer" width="400" align="center">
-    <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="27" />
-    <span valign="middle">gastontittarelli</span>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="mailto:gastontittarelli1@gmail.com" target="_blank" rel="noreferrer" width="400" align="center">
-    <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" />
-    <span valign="middle">gastontittarelli1@gmail.com </span>
-  </a>
-</p> --->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastontittarelli) &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastontittarelli1@gmail.com)
@@ -352,7 +342,3 @@
         <a href="https://clipchamp.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/clipchamp.png" alt="clipchamp" title="clipchamp" width="41" height="41"></a>
   </p> --->
-
-  <!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gastontittarelli&show_icons=true&locale=en&layout=compact&theme=dark" alt="gastontittarelli" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gastontittarelli&show_icons=true&locale=en" alt="gastontittarelli" /></p> -->
