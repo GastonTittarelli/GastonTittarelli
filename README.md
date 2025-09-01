@@ -163,9 +163,14 @@
 
 <br>
 
-![Chart.js](https://img.shields.io/badge/Chart\.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
-![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Given-When-Then](https://img.shields.io/badge/Given--When--Then-575757?logo=none&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00BFA6?logo=postgresql&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF6F00?logo=amazonapigateway&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-3B4A6B?logo=sequelize&logoColor=white)
+![file-saver](https://img.shields.io/badge/file--saver-8E44AD?logo=none&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?logo=swagger&logoColor=black)
 
 <br>
 <br>
