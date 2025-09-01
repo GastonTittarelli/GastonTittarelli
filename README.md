@@ -8,6 +8,7 @@
 <p> I am a Full Stack developer with a strong proficiency in Frontend technologies. My primary focus is on crafting digital solutions, and I am enthusiastic about expanding my skills in an innovative development environment. </p>
 
 
+
 <h2 align="left"> 💻 Languages and Tools:</h2>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
