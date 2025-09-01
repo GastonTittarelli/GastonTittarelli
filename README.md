@@ -3,6 +3,7 @@
 </a>
 
 <br>
+<br>
 
 <h2 align="left"> 🙋🏻‍♂️ About me:</h2>
 <h3>Full Stack Developer / Frontend Focused</h3>
