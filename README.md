@@ -211,8 +211,8 @@
 
 
 <h2 align="left"> 📫 Reach me:</h2>
-<p align="left" width="1000">
-  &nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer" width="400" align="center">
+<!--- <p align="left" width="1000">
+   <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer" width="400" align="center">
     <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="27" />
     <span valign="middle">gastontittarelli</span>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -220,8 +220,10 @@
     <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/gmail.png" alt="gmail" height="30" />
     <span valign="middle">gastontittarelli1@gmail.com </span>
   </a>
-</p>
+</p> --->
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastontittarelli) &nbsp;&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastontittarelli1@gmail.com)
 
 <!---
 <p align="left"> 
