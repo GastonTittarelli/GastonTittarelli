@@ -153,19 +153,19 @@
 ![Tidio](https://img.shields.io/badge/Tidio-2C7BE5?logo=tidio&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 ![Clipchamp](https://img.shields.io/badge/Clipchamp-8612F9?logo=microsoft&logoColor=white)
-![Artsteps](https://img.shields.io/badge/Artsteps-FF5733?logo=artstation&logoColor=white)
+![Artsteps](https://img.shields.io/badge/Artsteps-FF5733?logoColor=white)
 ![PageSpeed](https://img.shields.io/badge/PageSpeed-4285F4?logo=pagespeedinsights&logoColor=white)
 
 #### Metodologías & Principios
 ![Agile](https://img.shields.io/badge/Agile-009688?logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-4B0082?logo=abstract&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-4B0082?&logoColor=white)
 
 <br>
 
 ![Given-When-Then](https://img.shields.io/badge/Given--When--Then-575757?logo=none&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00BFA6?logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00BFA6?&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF6F00?logo=amazonapigateway&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-3B4A6B?logo=sequelize&logoColor=white)
 ![file-saver](https://img.shields.io/badge/file--saver-8E44AD?logo=none&logoColor=white)
