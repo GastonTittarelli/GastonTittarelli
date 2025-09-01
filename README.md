@@ -12,87 +12,6 @@
 <br>
 <h2 align="left"> 💻 Languages and Tools:</h2>
 
-<!---
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="45" height="45"/></a>&nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" title="css" width="45" height="45"/></a>&nbsp;
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" title="sass" width="45" height="45"/></a>&nbsp;&nbsp;
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="40" height="40"/></a>&nbsp;&nbsp;
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react" width="43" height="43"/></a>&nbsp;&nbsp;
-        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/redux.png" alt="redux.js" title="redux.js" width="42" height="42"/></a>&nbsp;&nbsp;
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="50" height="50"/></a>&nbsp;&nbsp;
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/express.png" alt="express" title="express" width="45" height="45"/></a>&nbsp;&nbsp;
-        <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/jest.png" alt="jest" title="jest" width="39" height="44"></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/playwright.png" alt="playwright" title="playwright" width="55" height="45"></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/MySql.png" alt="MySQL" title="MySQL" width="55" height="55"></a>&nbsp;&nbsp;
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="mongodb" width="48" height="48"/></a>&nbsp;&nbsp;
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="43" height="43"/></a>&nbsp;&nbsp;
-        <a href="https://glitch.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/Glitch.png" alt="Glitch" title="Glitch" width="55" height="41"></a>&nbsp;&nbsp;
-        <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/handlebars.png" alt="handlebars" title="handlebars" width="48" height="48"></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/tailwind.png" alt="tailwind" title="tailwind" width="60" height="38"/></a>&nbsp;&nbsp;
-        <a href="https://mui.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/materialui.png" alt="materialUI" title="materialUI" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="bootstrap"> 
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/bootstrap.png" alt="bootstrap" title="bootstrap" width="44" height="44"/></a>&nbsp;&nbsp;
-        <a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer" title="chakra UI"> 
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/chakraUI.png" alt="chakra UI" title="chakra UI" width="44" height="44"/></a>&nbsp;&nbsp;
-        <a href="https://ant.design/" target="_blank" rel="noreferrer" title="Ant Design"> 
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/antDesign.png" alt="Ant Design" title="Ant Design" width="44" height="44"/></a>&nbsp;&nbsp;
-        <a href="https://swiperjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/swiper.png" alt="swiper.js" title="swiper.js" width="41" height="41"></a>&nbsp;&nbsp;
-        <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/webpack.png" alt="webpack" title="webpack" width="42" height="42"></a>&nbsp;&nbsp;
-        <a href="https://bubble.io/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/babell.png" alt="babel" title="babel" width="67" height="40"></a>&nbsp;&nbsp;
-        <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel1.png" alt="vercel" title="vercel" width="65" height="42"></a>&nbsp;&nbsp;
-        <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/vite.png" alt="vite" title="vite" width="43" height="43"></a>&nbsp;&nbsp;
-        <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/netlify.png" alt="netlify" title="netlify" width="80" height="40"></a>&nbsp;&nbsp;
-        <a href="https://axios-http.com/es/docs/intro" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/axios1.png" alt="axios" title="axios" width="72" height="46"></a>&nbsp;&nbsp;
-        <a href="https://railway.app/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/railway-removebg-preview.png" alt="railway" title="railway" width="44" height="44"></a>&nbsp;&nbsp;
-        <a href="https://github.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/github.png" alt="github" title="github" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://postman.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/postman.png" alt="postman" title="postman" width="43" height="43"/></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://stripe.com/es-us" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/stripe.png" alt="stripe" title="stripe" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://www.tidio.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/tidio.png" alt="tidio" title="tidio" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/npm.png" alt="npm" title="npm" width="41" height="41"></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://pagespeed.web.dev/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/ff02247a05f5b24f7959d10469216679e06ef680/pagespeed.svg" alt="pagespeed" title="pagespeed" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://www.artsteps.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/artsteps.png" alt="artsteps" title="artsteps" width="45" height="45"></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/canva.png" alt="canva" title="canva" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://clipchamp.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/clipchamp.png" alt="clipchamp" title="clipchamp" width="41" height="41"></a>
-  </p> --->
-  
-
 <h5>Frontend</h5>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
@@ -289,15 +208,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gastontittarelli&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 <br>
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gastontittarelli&show_icons=true&locale=en&layout=compact&theme=dark" alt="gastontittarelli" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gastontittarelli&show_icons=true&locale=en" alt="gastontittarelli" /></p> -->
-
-
 
 
 <h2 align="left"> 📫 Reach me:</h2>
-<p align="center" width="1000">
+<p align="left" width="1000">
   <a href="https://linkedin.com/in/gastontittarelli" target="_blank" rel="noreferrer" width="400" align="center">
     <img valign="middle" src="https://github.com/GastonTittarelli/GastonTittarelli/blob/main/assets/linkedin.svg" alt="linkedin" height="27" />
     <span valign="middle">gastontittarelli</span>
@@ -307,3 +221,88 @@
     <span valign="middle">gastontittarelli1@gmail.com </span>
   </a>
 </p>
+
+
+<!---
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="45" height="45"/></a>&nbsp;
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" title="css" width="45" height="45"/></a>&nbsp;
+        <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" title="sass" width="45" height="45"/></a>&nbsp;&nbsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="40" height="40"/></a>&nbsp;&nbsp;
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react" width="43" height="43"/></a>&nbsp;&nbsp;
+        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/redux.png" alt="redux.js" title="redux.js" width="42" height="42"/></a>&nbsp;&nbsp;
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="50" height="50"/></a>&nbsp;&nbsp;
+        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/express.png" alt="express" title="express" width="45" height="45"/></a>&nbsp;&nbsp;
+        <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/jest.png" alt="jest" title="jest" width="39" height="44"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/playwright.png" alt="playwright" title="playwright" width="55" height="45"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/MySql.png" alt="MySQL" title="MySQL" width="55" height="55"></a>&nbsp;&nbsp;
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="mongodb" width="48" height="48"/></a>&nbsp;&nbsp;
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="43" height="43"/></a>&nbsp;&nbsp;
+        <a href="https://glitch.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/Glitch.png" alt="Glitch" title="Glitch" width="55" height="41"></a>&nbsp;&nbsp;
+        <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/handlebars.png" alt="handlebars" title="handlebars" width="48" height="48"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/tailwind.png" alt="tailwind" title="tailwind" width="60" height="38"/></a>&nbsp;&nbsp;
+        <a href="https://mui.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/materialui.png" alt="materialUI" title="materialUI" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="bootstrap"> 
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/bootstrap.png" alt="bootstrap" title="bootstrap" width="44" height="44"/></a>&nbsp;&nbsp;
+        <a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer" title="chakra UI"> 
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/chakraUI.png" alt="chakra UI" title="chakra UI" width="44" height="44"/></a>&nbsp;&nbsp;
+        <a href="https://ant.design/" target="_blank" rel="noreferrer" title="Ant Design"> 
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/antDesign.png" alt="Ant Design" title="Ant Design" width="44" height="44"/></a>&nbsp;&nbsp;
+        <a href="https://swiperjs.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/swiper.png" alt="swiper.js" title="swiper.js" width="41" height="41"></a>&nbsp;&nbsp;
+        <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/webpack.png" alt="webpack" title="webpack" width="42" height="42"></a>&nbsp;&nbsp;
+        <a href="https://bubble.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/babell.png" alt="babel" title="babel" width="67" height="40"></a>&nbsp;&nbsp;
+        <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/vercel1.png" alt="vercel" title="vercel" width="65" height="42"></a>&nbsp;&nbsp;
+        <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/vite.png" alt="vite" title="vite" width="43" height="43"></a>&nbsp;&nbsp;
+        <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/netlify.png" alt="netlify" title="netlify" width="80" height="40"></a>&nbsp;&nbsp;
+        <a href="https://axios-http.com/es/docs/intro" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/axios1.png" alt="axios" title="axios" width="72" height="46"></a>&nbsp;&nbsp;
+        <a href="https://railway.app/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/railway-removebg-preview.png" alt="railway" title="railway" width="44" height="44"></a>&nbsp;&nbsp;
+        <a href="https://github.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/github.png" alt="github" title="github" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://postman.com" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/postman.png" alt="postman" title="postman" width="43" height="43"/></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://stripe.com/es-us" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/stripe.png" alt="stripe" title="stripe" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.tidio.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/tidio.png" alt="tidio" title="tidio" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/npm.png" alt="npm" title="npm" width="41" height="41"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://pagespeed.web.dev/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/ff02247a05f5b24f7959d10469216679e06ef680/pagespeed.svg" alt="pagespeed" title="pagespeed" width="43" height="43"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.artsteps.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/artsteps.png" alt="artsteps" title="artsteps" width="45" height="45"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/canva.png" alt="canva" title="canva" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://clipchamp.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/master/clipchamp.png" alt="clipchamp" title="clipchamp" width="41" height="41"></a>
+  </p> --->
+
+  <!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gastontittarelli&show_icons=true&locale=en&layout=compact&theme=dark" alt="gastontittarelli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gastontittarelli&show_icons=true&locale=en" alt="gastontittarelli" /></p> -->
