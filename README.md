@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=77&duration=1500&pause=300&color=2788B3FF&background=00000000&center=true&vCenter=true&multiline=true&random=false&width=1920&height=300&lines=%3Cp%3E+Hi+there!;I%C2%B4m+Gast%C3%B3n+Tittarelli;Welcome+to+my+Github+Profile+%3Cp%2F%3E;aa" alt="Typing SVG" />
 </a>
 
-<!--- <a href="https://git.io/typing-svg" target="_blank" rel="noreferrer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=77&duration=1500&pause=300&color=0C469AFF&background=000000&center=true&vCenter=true&multiline=true&random=false&width=1920&height=300&lines=Hi+there!;I'm+Gast%C3%B3n;Welcome+to+my+Github+profile;aa" alt="Typing SVG" />
-</a> --->
-
 <h2 align="left"> 🙋🏻‍♂️ About me:</h2>
 <h3>Full Stack Developer / Frontend Focused</h3>
 <p> I am a Full Stack developer with a strong proficiency in Frontend technologies. My primary focus is on crafting digital solutions, and I am enthusiastic about expanding my skills in an innovative development environment. </p>
@@ -80,7 +76,6 @@
 <h2 align="left"> 💡 Professional Impact</h2>
 <h4> From freelance client collaborations to academic challenges, here are projects that not only sharpened my skills but also delivered value to real users.</h4>
 
-<br>
 
 <table align="center" width="100%">
   <tr width="95%">
