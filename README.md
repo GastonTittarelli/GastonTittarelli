@@ -90,12 +90,12 @@
     </td>
     <td align="center" width="50%">
       <h3>Rick & Morty Verse</h3>
-      <a href="rick-and-morty-blond-three.vercel.app/" target="_blank" rel="noreferrer">
+      <a href="https://rick-and-morty-blond-three.vercel.app/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/b1e4850c-11b3-4d5c-bf2e-d00f51a8e9dd" alt="Rick and Morty" width="400" />
       </a>
       <br>
       💼 <a href="https://github.com/GastonTittarelli/Rick-and-Morty" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
-      🌐 <a href="rick-and-morty-blond-three.vercel.app/" target="_blank" rel="noreferrer">Web App</a>
+      🌐 <a href="https://rick-and-morty-blond-three.vercel.app/" target="_blank" rel="noreferrer">Web App</a>
     </td>
   </tr>
 </table>
