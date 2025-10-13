@@ -152,7 +152,7 @@
       <h3>FIFA Player Pro</h3>
         <a href="https://github.com/GastonTittarelli/FIFA-Player-Pro" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/7163ee0c-9db8-40fb-888a-b4abf74c5fc1" alt="" width="400"/>
-       <!--- </a> --->
+        </a>
       <br>
       💼 <a href="https://github.com/GastonTittarelli/FIFA-Player-Pro" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
       <!--- 🌐 <a href="" target="_blank" rel="noreferrer">Web App</a> --->
