@@ -3,8 +3,8 @@
 </a>
 
 <h2 align="left"> 🙋🏻‍♂️ About me:</h2>
-<h3>Full Stack Developer / Frontend Focused</h3>
-<p> I am a Full Stack developer with a strong proficiency in Frontend technologies. My primary focus is on crafting digital solutions, and I am enthusiastic about expanding my skills in an innovative development environment. </p>
+<h3>Full Stack Developer with a Frontend Focus</h3>
+<p> I blend design creativity with backend technical expertise to build complete products, from the initial concept to production deployment. I have experience managing environments, automating deployments, and testing, always prioritizing simplicity, performance, and code quality. </p>
 <br>
 
 <h2 align="left"> 💻 Languages and Tools:</h2>
