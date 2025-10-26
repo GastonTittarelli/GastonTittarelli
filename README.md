@@ -82,7 +82,9 @@
     <td align="center" width="50%">
       <h3>LuigiaArt</h3>
       <a href="https://luigiaart.com.ar/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/artPage.png" alt="art page" width="400"/>
+        <!-- <img src="https://raw.githubusercontent.com/GastonTittarelli/readmeResources/refs/heads/master/artPage.png" alt="art page" width="400"/> -->
+        <img src="https://github.com/user-attachments/assets/a46fd6bc-a947-41d8-9a06-cf5e5e01a922" alt="art page" width="400"/>
+
       </a>
       <br>
       💼 <a href="https://github.com/GastonTittarelli/LuigiaArt" target="_blank" rel="noreferrer">Repository</a> &nbsp;&nbsp;&nbsp;
